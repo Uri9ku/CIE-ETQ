@@ -1,0 +1,111 @@
+{
+ "meta": {
+  "subject": "cpp",
+  "level": 3,
+  "key": "2026_06_cpp_3",
+  "question_count": 20,
+  "real_question_count": 20
+ },
+ "mapping": {
+  "2026_06_cpp_3#836207498": [
+   "cpp.syntax.var.var_def",
+   "cpp.operator.logic.bitwise",
+   "cpp.function.func_def.def"
+  ],
+  "2026_06_cpp_3#836207499": [
+   "cpp.function.func_def.def",
+   "cpp.function.func_def.param"
+  ],
+  "2026_06_cpp_3#836207500": [
+   "cpp.syntax.io.cin_cout",
+   "cpp.syntax.var.var_def",
+   "cpp.operator.logic.bitwise"
+  ],
+  "2026_06_cpp_3#836207501": [
+   "cpp.syntax.var.var_def",
+   "cpp.operator.arithmetic.op",
+   "cpp.operator.logic.cmp",
+   "cpp.flow.select.if_else",
+   "cpp.function.func_def.def",
+   "cpp.function.func_def.return",
+   "cpp.function.recursion.recursion"
+  ],
+  "2026_06_cpp_3#836207502": [
+   "cpp.datastruct.string.cstring",
+   "cpp.datastruct.string.str_func",
+   "cpp.function.func_def.def"
+  ],
+  "2026_06_cpp_3#836207503": [
+   "cpp.operator.logic.cmp",
+   "cpp.operator.logic.bitwise",
+   "cpp.function.func_def.return"
+  ],
+  "2026_06_cpp_3#836207504": [
+   "cpp.function.recursion.recursion",
+   "cpp.algo.basic.search",
+   "cpp.algo.basic.math_algo"
+  ],
+  "2026_06_cpp_3#836207505": [
+   "cpp.syntax.io.cin_cout",
+   "cpp.syntax.var.var_def",
+   "cpp.operator.arithmetic.self",
+   "cpp.operator.logic.bitwise",
+   "cpp.flow.loop.for_loop"
+  ],
+  "2026_06_cpp_3#836207506": [
+   "cpp.syntax.var.var_def",
+   "cpp.operator.arithmetic.op",
+   "cpp.operator.arithmetic.self",
+   "cpp.operator.logic.bitwise",
+   "cpp.flow.select.if_else",
+   "cpp.flow.loop.for_loop"
+  ],
+  "2026_06_cpp_3#836207528": [
+   "cpp.syntax.var.type",
+   "cpp.function.func_def.def",
+   "cpp.function.func_def.return"
+  ],
+  "2026_06_cpp_3#836207529": [
+   "cpp.syntax.var.type",
+   "cpp.operator.arithmetic.self",
+   "cpp.function.func_def.def",
+   "cpp.function.func_def.return",
+   "cpp.function.overload.overload"
+  ],
+  "2026_06_cpp_3#836207530": [
+   "cpp.function.func_def.def",
+   "cpp.function.func_def.param"
+  ],
+  "2026_06_cpp_3#836207531": [
+   "cpp.function.func_def.def",
+   "cpp.function.recursion.recursion"
+  ],
+  "2026_06_cpp_3#836207532": [
+   "cpp.operator.logic.logic_op",
+   "cpp.function.recursion.recursion"
+  ],
+  "2026_06_cpp_3#836207533": [
+   "cpp.datastruct.string.cstring",
+   "cpp.datastruct.string.str_func",
+   "cpp.function.func_def.def"
+  ],
+  "2026_06_cpp_3#836207534": [
+   "cpp.operator.arithmetic.self",
+   "cpp.datastruct.string.str_func"
+  ],
+  "2026_06_cpp_3#836207535": [
+   "cpp.algo.basic.search"
+  ],
+  "2026_06_cpp_3#836207536": [
+   "cpp.algo.basic.search"
+  ],
+  "2026_06_cpp_3#836207537": [
+   "cpp.operator.logic.logic_op",
+   "cpp.algo.basic.simulation"
+  ],
+  "2026_06_cpp_3#836208458": [
+   "cpp.datastruct.array.multidim",
+   "cpp.datastruct.string.cstring"
+  ]
+ }
+}

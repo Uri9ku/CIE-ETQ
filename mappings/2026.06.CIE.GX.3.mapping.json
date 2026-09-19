@@ -1,0 +1,147 @@
+{
+ "meta": {
+  "subject": "gx",
+  "level": 3,
+  "key": "2026_06_gx_3",
+  "question_count": 31,
+  "real_question_count": 28
+ },
+ "mapping": {
+  "2026_06_gx_3#695447365": [
+   "gx.motion.move.turn",
+   "gx.looks.size.layer",
+   "gx.control.loop.repeat"
+  ],
+  "2026_06_gx_3#1333409250": [
+   "gx.looks.size.layer",
+   "gx.control.select.if_else",
+   "gx.logic.math.arithmetic_op",
+   "gx.logic.bool.condition"
+  ],
+  "2026_06_gx_3#1333409276": [
+   "gx.event.trigger.green_flag",
+   "gx.interface.area.stage"
+  ],
+  "2026_06_gx_3#1333409279": [
+   "gx.motion.move.move_step",
+   "gx.looks.costume.costume",
+   "gx.looks.bg.background",
+   "gx.sound.play.play_sound",
+   "gx.var.variable.var_use",
+   "gx.interface.area.role"
+  ],
+  "2026_06_gx_3#1725322514": [
+   "gx.motion.move.turn",
+   "gx.event.trigger.green_flag",
+   "gx.event.trigger.click",
+   "gx.control.loop.forever",
+   "gx.interface.area.role"
+  ],
+  "2026_06_gx_3#1725322538": [
+   "gx.logic.math.arithmetic_op",
+   "gx.interface.area.stage"
+  ],
+  "2026_06_gx_3#1725322544": [
+   "gx.looks.size.size",
+   "gx.event.trigger.green_flag",
+   "gx.event.trigger.click",
+   "gx.event.trigger.broadcast",
+   "gx.logic.bool.condition"
+  ],
+  "2026_06_gx_3#1725322576": [
+   "gx.control.select.if_else"
+  ],
+  "2026_06_gx_3#2042747996": [
+   "gx.event.trigger.green_flag",
+   "gx.interface.area.role"
+  ],
+  "2026_06_gx_3#2042748022": [
+   "gx.event.trigger.key",
+   "gx.interface.area.role"
+  ],
+  "2026_06_gx_3#384670220": [
+   "gx.logic.bool.condition"
+  ],
+  "2026_06_gx_3#384670284": [
+   "gx.motion.coord.xy",
+   "gx.event.trigger.green_flag",
+   "gx.interface.area.role"
+  ],
+  "2026_06_gx_3#1447106573": [
+   "gx.event.trigger.green_flag",
+   "gx.logic.math.compare",
+   "gx.var.variable.var_use"
+  ],
+  "2026_06_gx_3#1447106576": [
+   "gx.event.trigger.green_flag",
+   "gx.interface.area.role"
+  ],
+  "2026_06_gx_3#1447106601": [
+   "gx.event.trigger.green_flag",
+   "gx.logic.math.arithmetic_op"
+  ],
+  "2026_06_gx_3#1447106635": [
+   "gx.motion.move.move_step",
+   "gx.motion.move.move_pos",
+   "gx.event.trigger.green_flag",
+   "gx.event.trigger.click",
+   "gx.interface.area.role"
+  ],
+  "2026_06_gx_3#1447106638": [
+   "gx.logic.math.find_rule"
+  ],
+  "2026_06_gx_3#1447106667": [
+   "gx.event.trigger.green_flag",
+   "gx.control.select.if_else",
+   "gx.interface.area.stage",
+   "gx.interface.area.role"
+  ],
+  "2026_06_gx_3#1333409310": [
+   "gx.var.variable.var_use",
+   "gx.var.variable.var_set"
+  ],
+  "2026_06_gx_3#1725322511": [
+   "gx.var.variable.var_use"
+  ],
+  "2026_06_gx_3#1725322512": [
+   "gx.event.trigger.broadcast",
+   "gx.interface.area.role"
+  ],
+  "2026_06_gx_3#2042748021": [
+   "gx.motion.move.move_step",
+   "gx.event.trigger.green_flag",
+   "gx.event.trigger.key",
+   "gx.interface.area.role"
+  ],
+  "2026_06_gx_3#2042748023": [
+   "gx.event.trigger.green_flag",
+   "gx.event.trigger.click",
+   "gx.interface.area.stage"
+  ],
+  "2026_06_gx_3#2042748027": [
+   "gx.motion.move.move_pos",
+   "gx.event.trigger.green_flag",
+   "gx.event.trigger.key"
+  ],
+  "2026_06_gx_3#384670193": [
+   "gx.control.loop.repeat",
+   "gx.control.select.if_else",
+   "gx.logic.bool.condition"
+  ],
+  "2026_06_gx_3#384670222": [
+   "gx.looks.costume.costume",
+   "gx.looks.size.size"
+  ],
+  "2026_06_gx_3#384670253": [
+   "gx.looks.costume.costume",
+   "gx.event.trigger.green_flag",
+   "gx.event.trigger.key"
+  ],
+  "2026_06_gx_3#826146996": [
+   "gx.looks.costume.costume",
+   "gx.event.trigger.key",
+   "gx.control.select.if_else",
+   "gx.logic.bool.condition"
+  ]
+ }
+}

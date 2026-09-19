@@ -1,0 +1,122 @@
+{
+ "meta": {
+  "subject": "cpp",
+  "level": 2,
+  "key": "2026_06_cpp_2",
+  "question_count": 20,
+  "real_question_count": 20
+ },
+ "mapping": {
+  "2026_06_cpp_2#706201265": [
+   "cpp.syntax.io.cin_cout",
+   "cpp.syntax.io.file",
+   "cpp.operator.arithmetic.self",
+   "cpp.flow.select.if_else"
+  ],
+  "2026_06_cpp_2#835283977": [
+   "cpp.syntax.io.cin_cout",
+   "cpp.syntax.io.file",
+   "cpp.syntax.var.var_def",
+   "cpp.flow.select.if_else"
+  ],
+  "2026_06_cpp_2#835283978": [
+   "cpp.syntax.var.var_def",
+   "cpp.operator.arithmetic.self"
+  ],
+  "2026_06_cpp_2#835283979": [
+   "cpp.syntax.io.cin_cout",
+   "cpp.syntax.var.var_def",
+   "cpp.operator.arithmetic.self",
+   "cpp.operator.logic.bitwise",
+   "cpp.flow.select.if_else"
+  ],
+  "2026_06_cpp_2#835283980": [
+   "cpp.syntax.io.cin_cout",
+   "cpp.syntax.var.var_def",
+   "cpp.operator.arithmetic.op",
+   "cpp.operator.arithmetic.self",
+   "cpp.operator.logic.bitwise",
+   "cpp.flow.select.if_else"
+  ],
+  "2026_06_cpp_2#835283981": [
+   "cpp.syntax.io.cin_cout",
+   "cpp.syntax.var.var_def",
+   "cpp.operator.arithmetic.self",
+   "cpp.operator.logic.bitwise",
+   "cpp.flow.loop.for_loop"
+  ],
+  "2026_06_cpp_2#835283982": [
+   "cpp.syntax.io.cin_cout",
+   "cpp.syntax.var.var_def",
+   "cpp.operator.arithmetic.self",
+   "cpp.operator.arithmetic.assign",
+   "cpp.operator.logic.bitwise",
+   "cpp.flow.loop.for_loop"
+  ],
+  "2026_06_cpp_2#835283983": [
+   "cpp.syntax.var.var_def",
+   "cpp.operator.arithmetic.self",
+   "cpp.operator.logic.bitwise",
+   "cpp.flow.loop.for_loop",
+   "cpp.datastruct.array.array_def"
+  ],
+  "2026_06_cpp_2#835283985": [
+   "cpp.syntax.var.var_def",
+   "cpp.operator.arithmetic.self",
+   "cpp.operator.arithmetic.assign",
+   "cpp.operator.logic.bitwise",
+   "cpp.flow.loop.for_loop",
+   "cpp.datastruct.array.array_def"
+  ],
+  "2026_06_cpp_2#835284007": [
+   "cpp.syntax.io.cin_cout",
+   "cpp.syntax.io.file",
+   "cpp.operator.arithmetic.self"
+  ],
+  "2026_06_cpp_2#706201289": [
+   "cpp.syntax.io.file",
+   "cpp.operator.logic.bitwise",
+   "cpp.flow.select.if_else"
+  ],
+  "2026_06_cpp_2#835284009": [
+   "cpp.syntax.var.var_def",
+   "cpp.syntax.var.type",
+   "cpp.syntax.var.type_cast",
+   "cpp.operator.arithmetic.self",
+   "cpp.operator.arithmetic.assign"
+  ],
+  "2026_06_cpp_2#835284010": [
+   "cpp.flow.select.switch"
+  ],
+  "2026_06_cpp_2#835284012": [
+   "cpp.flow.loop.for_loop",
+   "cpp.flow.loop.while_loop",
+   "cpp.flow.loop.nest"
+  ],
+  "2026_06_cpp_2#835284013": [
+   "cpp.flow.loop.for_loop",
+   "cpp.flow.loop.nest",
+   "cpp.flow.loop.break_continue"
+  ],
+  "2026_06_cpp_2#835284014": [
+   "cpp.syntax.var.var_def",
+   "cpp.operator.arithmetic.self",
+   "cpp.datastruct.array.array_def"
+  ],
+  "2026_06_cpp_2#835284015": [
+   "cpp.syntax.var.var_def",
+   "cpp.datastruct.array.array_def",
+   "cpp.datastruct.array.array_index"
+  ],
+  "2026_06_cpp_2#835284016": [
+   "cpp.datastruct.array.array_def"
+  ],
+  "2026_06_cpp_2#835284937": [
+   "cpp.flow.select.if_else"
+  ],
+  "2026_06_cpp_2#430610698": [
+   "cpp.syntax.io.cin_cout",
+   "cpp.algo.basic.search"
+  ]
+ }
+}

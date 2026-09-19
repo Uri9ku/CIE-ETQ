@@ -1,0 +1,169 @@
+{
+ "meta": {
+  "subject": "gx",
+  "level": 1,
+  "key": "2026_06_gx_1",
+  "question_count": 37,
+  "real_question_count": 35
+ },
+ "mapping": {
+  "2026_06_gx_1#243382538": [
+   "gx.motion.move.move_step"
+  ],
+  "2026_06_gx_1#1281211416": [
+   "gx.looks.costume.costume",
+   "gx.looks.costume.next_costume"
+  ],
+  "2026_06_gx_1#1281211418": [
+   "gx.looks.costume.costume",
+   "gx.event.trigger.green_flag"
+  ],
+  "2026_06_gx_1#876538132": [
+   "gx.looks.bg.background",
+   "gx.event.trigger.green_flag"
+  ],
+  "2026_06_gx_1#1263470063": [
+   "gx.looks.bg.background"
+  ],
+  "2026_06_gx_1#1263470066": [
+   "gx.motion.move.move_pos",
+   "gx.event.trigger.green_flag",
+   "gx.event.trigger.key"
+  ],
+  "2026_06_gx_1#1263470095": [
+   "gx.sound.play.play_sound",
+   "gx.sound.record.record",
+   "gx.event.trigger.click"
+  ],
+  "2026_06_gx_1#1263470125": [
+   "gx.logic.math.find_rule"
+  ],
+  "2026_06_gx_1#1263470151": [
+   "gx.logic.math.find_rule"
+  ],
+  "2026_06_gx_1#1263470152": [
+   "gx.event.trigger.green_flag"
+  ],
+  "2026_06_gx_1#1092450295": [
+   "gx.looks.costume.costume",
+   "gx.interface.area.stage",
+   "gx.interface.area.role",
+   "gx.interface.area.script",
+   "gx.interface.area.costume_area"
+  ],
+  "2026_06_gx_1#223998234": [
+   "gx.interface.area.role"
+  ],
+  "2026_06_gx_1#223998237": [
+   "gx.interface.area.role"
+  ],
+  "2026_06_gx_1#223998294": [
+   "gx.event.trigger.green_flag"
+  ],
+  "2026_06_gx_1#223998295": [
+   "gx.sound.play.play_sound",
+   "gx.sound.play.volume"
+  ],
+  "2026_06_gx_1#223998301": [
+   "gx.sound.play.play_sound",
+   "gx.interface.area.role"
+  ],
+  "2026_06_gx_1#223998302": [
+   "gx.logic.math.find_rule"
+  ],
+  "2026_06_gx_1#223998327": [
+   "gx.event.trigger.click",
+   "gx.logic.math.arithmetic_op",
+   "gx.interface.area.role"
+  ],
+  "2026_06_gx_1#1023190974": [
+   "gx.motion.move.move_pos",
+   "gx.motion.move.turn",
+   "gx.motion.coord.direction",
+   "gx.event.trigger.green_flag",
+   "gx.interface.area.stage",
+   "gx.interface.area.role"
+  ],
+  "2026_06_gx_1#1654149179": [
+   "gx.event.trigger.green_flag",
+   "gx.event.trigger.click",
+   "gx.control.loop.forever"
+  ],
+  "2026_06_gx_1#1023190975": [
+   "gx.motion.move.turn",
+   "gx.motion.coord.direction",
+   "gx.event.trigger.green_flag",
+   "gx.interface.area.role"
+  ],
+  "2026_06_gx_1#1654149205": [
+   "gx.logic.math.find_rule"
+  ],
+  "2026_06_gx_1#1654149206": [
+   "gx.looks.bg.background",
+   "gx.looks.bg.add_bg",
+   "gx.event.trigger.green_flag"
+  ],
+  "2026_06_gx_1#1023190980": [
+   "gx.looks.bg.background",
+   "gx.event.trigger.green_flag",
+   "gx.event.trigger.key"
+  ],
+  "2026_06_gx_1#1023190982": [
+   "gx.looks.bg.background",
+   "gx.event.trigger.click",
+   "gx.control.select.if_else"
+  ],
+  "2026_06_gx_1#1281211421": [
+   "gx.looks.bg.background",
+   "gx.sound.play.play_sound",
+   "gx.logic.math.arithmetic_op",
+   "gx.interface.area.stage",
+   "gx.interface.area.role"
+  ],
+  "2026_06_gx_1#1092450269": [
+   "gx.logic.math.arithmetic_op",
+   "gx.interface.area.role",
+   "gx.interface.operate.add_role"
+  ],
+  "2026_06_gx_1#223998270": [
+   "gx.motion.move.move_pos",
+   "gx.event.trigger.click",
+   "gx.var.variable.var_use"
+  ],
+  "2026_06_gx_1#1654149208": [
+   "gx.sound.play.play_sound",
+   "gx.event.trigger.green_flag"
+  ],
+  "2026_06_gx_1#1654149209": [
+   "gx.motion.move.move_pos",
+   "gx.event.trigger.green_flag"
+  ],
+  "2026_06_gx_1#1654149210": [
+   "gx.logic.math.find_rule"
+  ],
+  "2026_06_gx_1#1654149232": [
+   "gx.looks.costume.costume",
+   "gx.event.trigger.green_flag",
+   "gx.interface.area.role"
+  ],
+  "2026_06_gx_1#1654149233": [
+   "gx.looks.bg.background",
+   "gx.event.trigger.green_flag",
+   "gx.logic.math.arithmetic_op"
+  ],
+  "2026_06_gx_1#1654149235": [
+   "gx.motion.move.move_pos",
+   "gx.event.trigger.green_flag"
+  ],
+  "2026_06_gx_1#1654149237": [
+   "gx.looks.bg.background",
+   "gx.looks.bg.add_bg",
+   "gx.looks.size.size",
+   "gx.event.trigger.green_flag",
+   "gx.event.trigger.click",
+   "gx.logic.math.arithmetic_op",
+   "gx.interface.area.role",
+   "gx.interface.operate.add_role"
+  ]
+ }
+}

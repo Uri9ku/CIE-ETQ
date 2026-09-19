@@ -1,0 +1,197 @@
+{
+ "meta": {
+  "subject": "py",
+  "level": 4,
+  "key": "2026_06_py_4",
+  "question_count": 38,
+  "real_question_count": 35
+ },
+ "mapping": {
+  "2026_06_py_4#1483681890": [
+   "py.syntax.type.num",
+   "py.syntax.type.type_conv",
+   "py.syntax.print.print_func",
+   "py.operator.compare.logic",
+   "py.flow.loop.for_loop",
+   "py.algorithm.basic_algo.seq"
+  ],
+  "2026_06_py_4#1545250129": [
+   "py.datastruct.list.list_op",
+   "py.algorithm.basic_algo.seq",
+   "py.algorithm.basic_algo.sort_search"
+  ],
+  "2026_06_py_4#1545250131": [
+   "py.syntax.type.num",
+   "py.syntax.type.type_conv",
+   "py.syntax.print.print_func",
+   "py.operator.arithmetic.div_mod",
+   "py.operator.compare.logic",
+   "py.flow.loop.for_loop"
+  ],
+  "2026_06_py_4#1110826364": [
+   "py.syntax.type.num",
+   "py.syntax.type.type_conv",
+   "py.syntax.print.print_func",
+   "py.function.func_def.def"
+  ],
+  "2026_06_py_4#2063440514": [
+   "py.function.func_def.def",
+   "py.function.func_def.return",
+   "py.turtle.move.turn",
+   "py.turtle.shape.circle"
+  ],
+  "2026_06_py_4#2063440517": [
+   "py.syntax.var.var_assign",
+   "py.function.func_def.def",
+   "py.function.func_def.return",
+   "py.turtle.move.turn"
+  ],
+  "2026_06_py_4#2063440518": [
+   "py.function.func_def.def"
+  ],
+  "2026_06_py_4#2063440540": [
+   "py.syntax.type.str",
+   "py.syntax.type.bool",
+   "py.flow.loop.break_continue",
+   "py.function.func_def.return",
+   "py.turtle.move.turn"
+  ],
+  "2026_06_py_4#794932839": [
+   "py.syntax.var.var_name",
+   "py.syntax.var.var_assign",
+   "py.operator.compare.logic",
+   "py.function.func_def.param"
+  ],
+  "2026_06_py_4#794932840": [
+   "py.syntax.type.num",
+   "py.syntax.type.type_conv",
+   "py.syntax.print.print_func",
+   "py.function.func_def.def"
+  ],
+  "2026_06_py_4#794932862": [
+   "py.syntax.var.var_assign",
+   "py.flow.loop.nest",
+   "py.datastruct.string_op.str_method",
+   "py.function.func_def.param"
+  ],
+  "2026_06_py_4#794932863": [
+   "py.syntax.var.var_assign",
+   "py.operator.compare.logic",
+   "py.function.func_def.def"
+  ],
+  "2026_06_py_4#794932864": [
+   "py.syntax.type.num",
+   "py.syntax.type.type_conv",
+   "py.syntax.print.print_func",
+   "py.function.func_def.def",
+   "py.function.func_def.return",
+   "py.turtle.move.turn"
+  ],
+  "2026_06_py_4#794932865": [
+   "py.operator.compare.logic",
+   "py.datastruct.string_op.str_method",
+   "py.function.func_def.recursion"
+  ],
+  "2026_06_py_4#794932895": [
+   "py.operator.compare.logic",
+   "py.function.module.import",
+   "py.function.module.math"
+  ],
+  "2026_06_py_4#794932897": [
+   "py.syntax.type.num",
+   "py.operator.compare.logic",
+   "py.function.module.import"
+  ],
+  "2026_06_py_4#794932898": [
+   "py.syntax.type.str",
+   "py.function.func_def.def",
+   "py.function.func_def.return"
+  ],
+  "2026_06_py_4#360632561": [
+   "py.operator.compare.logic",
+   "py.flow.loop.for_loop",
+   "py.function.func_def.def",
+   "py.function.func_def.return",
+   "py.turtle.move.turn"
+  ],
+  "2026_06_py_4#360632563": [
+   "py.algorithm.basic_algo.seq"
+  ],
+  "2026_06_py_4#360632591": [
+   "py.function.func_def.recursion"
+  ],
+  "2026_06_py_4#360632593": [
+   "py.flow.loop.while_loop",
+   "py.flow.logic_expr.condition",
+   "py.datastruct.list.list_op",
+   "py.datastruct.string_op.str_method",
+   "py.function.func_def.return",
+   "py.function.func_def.recursion"
+  ],
+  "2026_06_py_4#360632594": [
+   "py.function.func_def.recursion"
+  ],
+  "2026_06_py_4#360632622": [
+   "py.operator.compare.logic",
+   "py.flow.select.if_else",
+   "py.flow.loop.for_loop",
+   "py.flow.loop.while_loop",
+   "py.function.func_def.recursion"
+  ],
+  "2026_06_py_4#360632623": [
+   "py.algorithm.basic_algo.seq",
+   "py.algorithm.basic_algo.sort_search"
+  ],
+  "2026_06_py_4#360632626": [
+   "py.algorithm.basic_algo.seq"
+  ],
+  "2026_06_py_4#1545250102": [
+   "py.datastruct.list.list_op",
+   "py.function.func_def.def",
+   "py.function.func_def.param",
+   "py.algorithm.basic_algo.seq"
+  ],
+  "2026_06_py_4#692109040": [
+   "py.function.func_def.def"
+  ],
+  "2026_06_py_4#692109041": [
+   "py.function.func_def.def",
+   "py.function.func_def.return",
+   "py.turtle.move.turn"
+  ],
+  "2026_06_py_4#692109042": [
+   "py.syntax.var.var_assign",
+   "py.function.func_def.param"
+  ],
+  "2026_06_py_4#692109064": [
+   "py.operator.compare.logic",
+   "py.flow.loop.for_loop",
+   "py.function.func_def.recursion"
+  ],
+  "2026_06_py_4#692109065": [
+   "py.algorithm.basic_algo.sort_search"
+  ],
+  "2026_06_py_4#794932927": [
+   "py.syntax.var.var_name",
+   "py.operator.compare.logic",
+   "py.function.module.import"
+  ],
+  "2026_06_py_4#794932929": [
+   "py.function.func_def.param",
+   "py.function.func_def.return"
+  ],
+  "2026_06_py_4#360632596": [
+   "py.syntax.print.print_func"
+  ],
+  "2026_06_py_4#360632652": [
+   "py.syntax.type.num",
+   "py.operator.compare.cmp",
+   "py.operator.compare.logic",
+   "py.datastruct.list.list_op",
+   "py.function.func_def.def",
+   "py.function.func_def.return",
+   "py.algorithm.basic_algo.seq",
+   "py.algorithm.basic_algo.sort_search"
+  ]
+ }
+}

@@ -1,0 +1,174 @@
+{
+ "meta": {
+  "subject": "gx",
+  "level": 2,
+  "key": "2026_06_gx_2",
+  "question_count": 37,
+  "real_question_count": 35
+ },
+ "mapping": {
+  "2026_06_gx_2#669540875": [
+   "gx.looks.size.size"
+  ],
+  "2026_06_gx_2#1083214996": [
+   "gx.motion.move.turn",
+   "gx.motion.coord.direction"
+  ],
+  "2026_06_gx_2#1083214998": [
+   "gx.motion.move.turn",
+   "gx.motion.coord.direction",
+   "gx.event.trigger.green_flag",
+   "gx.event.trigger.click",
+   "gx.interface.area.role"
+  ],
+  "2026_06_gx_2#1083215025": [
+   "gx.motion.move.move_step",
+   "gx.event.trigger.key",
+   "gx.interface.area.stage"
+  ],
+  "2026_06_gx_2#1083215027": [
+   "gx.motion.move.move_step",
+   "gx.event.trigger.green_flag",
+   "gx.control.loop.forever",
+   "gx.interface.area.stage",
+   "gx.interface.area.role"
+  ],
+  "2026_06_gx_2#1083215028": [
+   "gx.logic.math.find_rule"
+  ],
+  "2026_06_gx_2#1083215058": [
+   "gx.interface.area.role"
+  ],
+  "2026_06_gx_2#655453655": [
+   "gx.event.trigger.green_flag",
+   "gx.event.trigger.click",
+   "gx.interface.area.stage",
+   "gx.interface.area.role"
+  ],
+  "2026_06_gx_2#655453660": [
+   "gx.motion.move.move_step",
+   "gx.motion.move.move_pos"
+  ],
+  "2026_06_gx_2#1993590685": [
+   "gx.motion.move.move_step",
+   "gx.motion.move.move_pos",
+   "gx.event.trigger.key"
+  ],
+  "2026_06_gx_2#1993590707": [
+   "gx.control.select.if_else"
+  ],
+  "2026_06_gx_2#1205585193": [
+   "gx.event.trigger.green_flag",
+   "gx.interface.area.role"
+  ],
+  "2026_06_gx_2#1205585198": [
+   "gx.sound.play.volume",
+   "gx.event.trigger.green_flag",
+   "gx.interface.area.role"
+  ],
+  "2026_06_gx_2#1205585201": [
+   "gx.event.trigger.key",
+   "gx.interface.area.role"
+  ],
+  "2026_06_gx_2#1205585289": [
+   "gx.motion.coord.xy",
+   "gx.event.trigger.green_flag"
+  ],
+  "2026_06_gx_2#1171314758": [
+   "gx.control.loop.repeat"
+  ],
+  "2026_06_gx_2#1171314791": [
+   "gx.motion.move.move_step",
+   "gx.motion.move.move_pos",
+   "gx.motion.move.turn",
+   "gx.motion.coord.direction",
+   "gx.event.trigger.green_flag",
+   "gx.event.trigger.click"
+  ],
+  "2026_06_gx_2#1184244085": [
+   "gx.motion.move.move_step",
+   "gx.motion.move.move_pos"
+  ],
+  "2026_06_gx_2#1184244087": [
+   "gx.motion.move.move_pos",
+   "gx.event.trigger.key",
+   "gx.interface.area.role"
+  ],
+  "2026_06_gx_2#1184244112": [
+   "gx.interface.area.role"
+  ],
+  "2026_06_gx_2#871365823": [
+   "gx.event.trigger.green_flag",
+   "gx.interface.area.role"
+  ],
+  "2026_06_gx_2#871365824": [
+   "gx.motion.move.move_step",
+   "gx.event.trigger.green_flag",
+   "gx.interface.area.role"
+  ],
+  "2026_06_gx_2#871365825": [
+   "gx.motion.move.move_pos"
+  ],
+  "2026_06_gx_2#466692538": [
+   "gx.logic.math.find_rule"
+  ],
+  "2026_06_gx_2#466692539": [
+   "gx.control.select.if_else",
+   "gx.logic.bool.condition"
+  ],
+  "2026_06_gx_2#1083215088": [
+   "gx.motion.move.move_pos",
+   "gx.event.trigger.green_flag",
+   "gx.event.trigger.key",
+   "gx.event.trigger.click",
+   "gx.interface.area.role"
+  ],
+  "2026_06_gx_2#1993590710": [
+   "gx.event.trigger.green_flag",
+   "gx.event.trigger.click",
+   "gx.interface.area.role"
+  ],
+  "2026_06_gx_2#1205585226": [
+   "gx.motion.move.move_pos",
+   "gx.event.trigger.green_flag"
+  ],
+  "2026_06_gx_2#1205585287": [
+   "gx.looks.bg.background",
+   "gx.event.trigger.green_flag",
+   "gx.interface.area.stage",
+   "gx.interface.area.role"
+  ],
+  "2026_06_gx_2#1171314762": [
+   "gx.motion.move.move_pos",
+   "gx.event.trigger.green_flag",
+   "gx.interface.area.role"
+  ],
+  "2026_06_gx_2#1171314790": [
+   "gx.logic.math.find_rule"
+  ],
+  "2026_06_gx_2#1171314854": [
+   "gx.sound.play.volume",
+   "gx.event.trigger.green_flag",
+   "gx.interface.area.role"
+  ],
+  "2026_06_gx_2#871365827": [
+   "gx.motion.move.move_step",
+   "gx.motion.move.move_pos",
+   "gx.motion.move.turn",
+   "gx.motion.coord.direction",
+   "gx.event.trigger.green_flag",
+   "gx.control.loop.repeat"
+  ],
+  "2026_06_gx_2#436321923": [
+   "gx.event.trigger.green_flag",
+   "gx.control.loop.repeat",
+   "gx.control.select.if_else",
+   "gx.logic.bool.condition"
+  ],
+  "2026_06_gx_2#436321924": [
+   "gx.looks.bg.background",
+   "gx.looks.size.size",
+   "gx.interface.area.role"
+  ]
+ }
+}

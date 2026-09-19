@@ -1,0 +1,171 @@
+{
+ "meta": {
+  "subject": "py",
+  "level": 2,
+  "key": "2026_06_py_2",
+  "question_count": 37,
+  "real_question_count": 35
+ },
+ "mapping": {
+  "2026_06_py_2#1487888311": [
+   "py.operator.compare.logic",
+   "py.datastruct.tuple_dict.tuple",
+   "py.algorithm.basic_algo.sort_search"
+  ],
+  "2026_06_py_2#1487888337": [
+   "py.syntax.type.num",
+   "py.syntax.type.type_conv",
+   "py.syntax.print.print_func",
+   "py.operator.compare.logic",
+   "py.flow.loop.for_loop"
+  ],
+  "2026_06_py_2#1487888375": [
+   "py.syntax.type.num",
+   "py.syntax.type.type_conv",
+   "py.syntax.print.print_func",
+   "py.flow.select.if_else",
+   "py.flow.logic_expr.condition"
+  ],
+  "2026_06_py_2#1487888398": [
+   "py.datastruct.list.list_op"
+  ],
+  "2026_06_py_2#604831115": [
+   "py.datastruct.list.list_op",
+   "py.datastruct.list.list_index",
+   "py.datastruct.string_op.str_method"
+  ],
+  "2026_06_py_2#1131872444": [
+   "py.datastruct.list.list_op"
+  ],
+  "2026_06_py_2#1131872447": [
+   "py.syntax.type.num",
+   "py.syntax.type.type_conv",
+   "py.syntax.print.print_func",
+   "py.operator.compare.logic",
+   "py.datastruct.tuple_dict.tuple"
+  ],
+  "2026_06_py_2#1131872474": [
+   "py.syntax.type.num",
+   "py.syntax.type.str",
+   "py.syntax.type.type_conv",
+   "py.syntax.print.print_func"
+  ],
+  "2026_06_py_2#1131872479": [
+   "py.operator.compare.logic",
+   "py.datastruct.tuple_dict.dict",
+   "py.turtle.screen.clear"
+  ],
+  "2026_06_py_2#1131872507": [
+   "py.datastruct.list.list_op"
+  ],
+  "2026_06_py_2#1575988073": [
+   "py.datastruct.list.list_op"
+  ],
+  "2026_06_py_2#1575988076": [
+   "py.operator.compare.logic",
+   "py.flow.loop.for_loop",
+   "py.datastruct.list.list_op",
+   "py.datastruct.string_op.str_method"
+  ],
+  "2026_06_py_2#1575988104": [
+   "py.syntax.type.str",
+   "py.datastruct.list.list_op",
+   "py.datastruct.tuple_dict.tuple",
+   "py.datastruct.tuple_dict.dict"
+  ],
+  "2026_06_py_2#1575988133": [],
+  "2026_06_py_2#1575988138": [
+   "py.datastruct.tuple_dict.dict",
+   "py.turtle.pen.pen_size"
+  ],
+  "2026_06_py_2#1223955454": [
+   "py.syntax.type.num",
+   "py.syntax.type.type_conv",
+   "py.syntax.print.print_func",
+   "py.datastruct.list.list_op"
+  ],
+  "2026_06_py_2#1223955455": [
+   "py.syntax.type.num",
+   "py.syntax.type.type_conv",
+   "py.syntax.print.print_func"
+  ],
+  "2026_06_py_2#1223955457": [
+   "py.syntax.type.num",
+   "py.syntax.print.print_func",
+   "py.flow.select.if_else"
+  ],
+  "2026_06_py_2#1223955458": [
+   "py.flow.select.if_else",
+   "py.flow.loop.break_continue"
+  ],
+  "2026_06_py_2#1223955487": [
+   "py.syntax.type.num",
+   "py.syntax.type.type_conv",
+   "py.syntax.print.print_func",
+   "py.flow.loop.while_loop"
+  ],
+  "2026_06_py_2#416069999": [
+   "py.syntax.type.bool",
+   "py.operator.compare.logic",
+   "py.datastruct.list.list_op",
+   "py.algorithm.basic_algo.sort_search"
+  ],
+  "2026_06_py_2#1923958771": [
+   "py.datastruct.list.list_op"
+  ],
+  "2026_06_py_2#1923958773": [
+   "py.datastruct.list.list_op",
+   "py.datastruct.tuple_dict.tuple"
+  ],
+  "2026_06_py_2#1923958776": [
+   "py.syntax.type.str",
+   "py.datastruct.list.list_op",
+   "py.datastruct.tuple_dict.tuple",
+   "py.datastruct.tuple_dict.dict"
+  ],
+  "2026_06_py_2#1923958830": [
+   "py.syntax.type.str"
+  ],
+  "2026_06_py_2#1487888343": [
+   "py.datastruct.tuple_dict.dict"
+  ],
+  "2026_06_py_2#1487888370": [
+   "py.syntax.type.num",
+   "py.syntax.type.type_conv",
+   "py.syntax.print.print_func",
+   "py.syntax.print.format",
+   "py.operator.compare.logic",
+   "py.flow.loop.for_loop"
+  ],
+  "2026_06_py_2#1133621572": [
+   "py.syntax.type.type_conv",
+   "py.datastruct.list.list_op",
+   "py.datastruct.tuple_dict.tuple"
+  ],
+  "2026_06_py_2#1575988102": [
+   "py.flow.loop.while_loop",
+   "py.flow.loop.break_continue"
+  ],
+  "2026_06_py_2#1575988165": [
+   "py.operator.arithmetic.add_sub",
+   "py.datastruct.tuple_dict.tuple"
+  ],
+  "2026_06_py_2#1223955548": [
+   "py.flow.select.if_else"
+  ],
+  "2026_06_py_2#416070000": [
+   "py.flow.select.if_else"
+  ],
+  "2026_06_py_2#489780471": [
+   "py.flow.loop.while_loop",
+   "py.flow.loop.break_continue"
+  ],
+  "2026_06_py_2#1923958865": [
+   "py.datastruct.list.list_op",
+   "py.datastruct.tuple_dict.dict"
+  ],
+  "2026_06_py_2#1923958892": [
+   "py.operator.arithmetic.add_sub"
+  ]
+ }
+}

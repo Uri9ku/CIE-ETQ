@@ -1,0 +1,47 @@
+{
+ "meta": {
+  "subject": "c",
+  "level": 6,
+  "key": "2026_06_c_6",
+  "question_count": 10,
+  "real_question_count": 10
+ },
+ "mapping": {
+  "2026_06_c_6#1772441770": [
+   "c.datastruct.array.array_def",
+   "c.algo.search.dfs_bfs"
+  ],
+  "2026_06_c_6#1772441771": [
+   "c.flow.select.if_else",
+   "c.datastruct.array.array_def",
+   "c.algo.dp.backpack",
+   "c.algo.dp.dp"
+  ],
+  "2026_06_c_6#1772441772": [
+   "c.operator.arithmetic.op"
+  ],
+  "2026_06_c_6#1772441773": [
+   "c.algo.search.dfs_bfs"
+  ],
+  "2026_06_c_6#1772441774": [
+   "c.algo.search.dfs_bfs"
+  ],
+  "2026_06_c_6#1772441775": [
+   "c.algo.dp.dp"
+  ],
+  "2026_06_c_6#1772441776": [
+   "c.datastruct.array.multidim"
+  ],
+  "2026_06_c_6#1772441777": [
+   "c.pointer.ptr.ptr_base",
+   "c.function.func_def.def"
+  ],
+  "2026_06_c_6#1772441778": [
+   "c.algo.search.dfs_bfs"
+  ],
+  "2026_06_c_6#1772441800": [
+   "c.operator.arithmetic.op",
+   "c.datastruct.string.cstr"
+  ]
+ }
+}

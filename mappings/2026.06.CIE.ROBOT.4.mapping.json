@@ -1,0 +1,175 @@
+{
+ "meta": {
+  "subject": "robot",
+  "level": 4,
+  "key": "2026_06_robot_4",
+  "question_count": 31,
+  "real_question_count": 30
+ },
+ "mapping": {
+  "2026_06_robot_4#44799935": [
+   "robot.elec.arduino.board",
+   "robot.program.lang.operator"
+  ],
+  "2026_06_robot_4#44799993": [
+   "robot.elec.arduino.io",
+   "robot.elec.sensor.infrared",
+   "robot.elec.motor.servo",
+   "robot.elec.motor.led",
+   "robot.program.concept.open_closed"
+  ],
+  "2026_06_robot_4#44800021": [
+   "robot.elec.arduino.board",
+   "robot.elec.arduino.serial"
+  ],
+  "2026_06_robot_4#44800046": [
+   "robot.elec.arduino.board",
+   "robot.elec.arduino.serial",
+   "robot.program.lang.type",
+   "robot.program.lang.func"
+  ],
+  "2026_06_robot_4#44800072": [
+   "robot.elec.arduino.board",
+   "robot.program.lang.operator",
+   "robot.program.lang.func",
+   "robot.program.flow.io_func"
+  ],
+  "2026_06_robot_4#44800197": [
+   "robot.elec.basic.voltage",
+   "robot.elec.arduino.board",
+   "robot.elec.arduino.io",
+   "robot.program.lang.operator",
+   "robot.program.lang.func",
+   "robot.program.flow.io_func"
+  ],
+  "2026_06_robot_4#44800220": [
+   "robot.elec.arduino.board",
+   "robot.elec.motor.dc_motor",
+   "robot.program.lang.func",
+   "robot.program.flow.io_func"
+  ],
+  "2026_06_robot_4#44800243": [
+   "robot.elec.basic.voltage",
+   "robot.elec.basic.resistance",
+   "robot.elec.basic.circuit",
+   "robot.elec.basic.conduct"
+  ],
+  "2026_06_robot_4#44800266": [
+   "robot.elec.basic.component",
+   "robot.elec.arduino.io"
+  ],
+  "2026_06_robot_4#44800296": [
+   "robot.elec.arduino.board",
+   "robot.program.lang.type"
+  ],
+  "2026_06_robot_4#44800410": [
+   "robot.elec.arduino.board",
+   "robot.elec.arduino.serial",
+   "robot.program.lang.type",
+   "robot.program.lang.var"
+  ],
+  "2026_06_robot_4#44800432": [
+   "robot.elec.arduino.board",
+   "robot.elec.arduino.serial",
+   "robot.program.lang.var"
+  ],
+  "2026_06_robot_4#44800463": [
+   "robot.elec.arduino.board",
+   "robot.elec.arduino.serial"
+  ],
+  "2026_06_robot_4#44800492": [
+   "robot.elec.arduino.board",
+   "robot.elec.arduino.serial"
+  ],
+  "2026_06_robot_4#44800534": [
+   "robot.elec.basic.resistance",
+   "robot.elec.basic.circuit",
+   "robot.elec.sensor.other_sensor",
+   "robot.program.lang.func",
+   "robot.program.flow.io_func"
+  ],
+  "2026_06_robot_4#44800610": [
+   "robot.elec.basic.resistance",
+   "robot.elec.basic.circuit",
+   "robot.elec.arduino.board",
+   "robot.elec.arduino.io"
+  ],
+  "2026_06_robot_4#44800641": [
+   "robot.elec.arduino.board",
+   "robot.program.lang.var"
+  ],
+  "2026_06_robot_4#44800670": [
+   "robot.elec.basic.circuit",
+   "robot.elec.arduino.board",
+   "robot.elec.arduino.io",
+   "robot.elec.motor.led"
+  ],
+  "2026_06_robot_4#44800700": [
+   "robot.mech.machine.work_energy",
+   "robot.elec.arduino.io",
+   "robot.elec.sensor.ultrasonic",
+   "robot.elec.sensor.other_sensor",
+   "robot.program.lang.func",
+   "robot.history.overview.component"
+  ],
+  "2026_06_robot_4#44800723": [
+   "robot.mech.machine.work_energy",
+   "robot.elec.arduino.board",
+   "robot.elec.arduino.io",
+   "robot.program.concept.digital_analog"
+  ],
+  "2026_06_robot_4#44800097": [
+   "robot.elec.arduino.board",
+   "robot.elec.arduino.serial",
+   "robot.program.lang.func",
+   "robot.program.flow.io_func"
+  ],
+  "2026_06_robot_4#44800122": [
+   "robot.mech.machine.work_energy",
+   "robot.elec.arduino.board",
+   "robot.elec.arduino.io",
+   "robot.program.concept.digital_analog"
+  ],
+  "2026_06_robot_4#44800318": [
+   "robot.elec.basic.resistance",
+   "robot.elec.basic.circuit",
+   "robot.elec.basic.component",
+   "robot.elec.sensor.other_sensor",
+   "robot.program.lang.func"
+  ],
+  "2026_06_robot_4#44800341": [
+   "robot.elec.arduino.board",
+   "robot.program.lang.operator"
+  ],
+  "2026_06_robot_4#44800556": [
+   "robot.elec.arduino.board"
+  ],
+  "2026_06_robot_4#44800145": [
+   "robot.elec.arduino.board",
+   "robot.elec.arduino.io",
+   "robot.program.concept.digital_analog"
+  ],
+  "2026_06_robot_4#44800173": [
+   "robot.elec.arduino.board",
+   "robot.elec.arduino.io",
+   "robot.program.lang.func",
+   "robot.program.flow.io_func",
+   "robot.program.concept.digital_analog"
+  ],
+  "2026_06_robot_4#44800364": [
+   "robot.elec.basic.resistance",
+   "robot.elec.basic.circuit"
+  ],
+  "2026_06_robot_4#44800387": [
+   "robot.elec.arduino.board",
+   "robot.program.flow.loop"
+  ],
+  "2026_06_robot_4#44800581": [
+   "robot.elec.basic.voltage",
+   "robot.elec.arduino.board",
+   "robot.elec.sensor.potentiometer",
+   "robot.elec.sensor.infrared",
+   "robot.elec.motor.led"
+  ]
+ }
+}

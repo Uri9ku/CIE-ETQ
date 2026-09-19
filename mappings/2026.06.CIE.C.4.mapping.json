@@ -1,0 +1,100 @@
+{
+ "meta": {
+  "subject": "c",
+  "level": 4,
+  "key": "2026_06_c_4",
+  "question_count": 20,
+  "real_question_count": 20
+ },
+ "mapping": {
+  "2026_06_c_4#837131019": [
+   "c.syntax.var.var_def",
+   "c.syntax.io.cin_cout",
+   "c.operator.logic.bitwise",
+   "c.datastruct.array.array_def",
+   "c.pointer.ptr.ptr_base"
+  ],
+  "2026_06_c_4#837131020": [
+   "c.syntax.var.var_def",
+   "c.operator.arithmetic.inc_dec",
+   "c.operator.logic.logical",
+   "c.datastruct.array.array_index",
+   "c.datastruct.struct.class",
+   "c.datastruct.struct.member",
+   "c.function.func_def.def"
+  ],
+  "2026_06_c_4#837131021": [
+   "c.syntax.var.var_def",
+   "c.operator.arithmetic.inc_dec",
+   "c.operator.logic.bitwise",
+   "c.datastruct.struct.struct_def"
+  ],
+  "2026_06_c_4#837131022": [
+   "c.base.number.bin_hex",
+   "c.base.number.convert"
+  ],
+  "2026_06_c_4#837131023": [
+   "c.operator.arithmetic.inc_dec",
+   "c.operator.logic.bitwise"
+  ],
+  "2026_06_c_4#837131024": [
+   "c.flow.select.if_else",
+   "c.algo.search.binary_search"
+  ],
+  "2026_06_c_4#837131025": [
+   "c.operator.logic.bitwise",
+   "c.flow.select.if_else",
+   "c.datastruct.array.array_def",
+   "c.algo.search.binary_search"
+  ],
+  "2026_06_c_4#837131026": [
+   "c.operator.arithmetic.op"
+  ],
+  "2026_06_c_4#837131027": [
+   "c.operator.arithmetic.op",
+   "c.operator.logic.cmp"
+  ],
+  "2026_06_c_4#837131049": [
+   "c.operator.arithmetic.inc_dec",
+   "c.pointer.ptr.ptr_base"
+  ],
+  "2026_06_c_4#837131050": [
+   "c.operator.arithmetic.op",
+   "c.pointer.ptr.ptr_base"
+  ],
+  "2026_06_c_4#837131051": [
+   "c.syntax.var.var_def",
+   "c.datastruct.struct.struct_def"
+  ],
+  "2026_06_c_4#837131052": [
+   "c.datastruct.array.array_def",
+   "c.datastruct.struct.struct_def",
+   "c.datastruct.struct.member"
+  ],
+  "2026_06_c_4#837131053": [
+   "c.base.number.bin_hex",
+   "c.base.number.convert"
+  ],
+  "2026_06_c_4#837131054": [
+   "c.operator.arithmetic.inc_dec",
+   "c.operator.logic.bitwise"
+  ],
+  "2026_06_c_4#837131055": [
+   "c.algo.search.binary_search"
+  ],
+  "2026_06_c_4#837131056": [
+   "c.algo.search.binary_search"
+  ],
+  "2026_06_c_4#837131057": [
+   "c.syntax.var.type",
+   "c.operator.arithmetic.inc_dec",
+   "c.datastruct.struct.class"
+  ],
+  "2026_06_c_4#837131058": [
+   "c.operator.arithmetic.op"
+  ],
+  "2026_06_c_4#837131979": [
+   "c.operator.logic.logical"
+  ]
+ }
+}

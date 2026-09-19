@@ -1,0 +1,171 @@
+{
+ "meta": {
+  "subject": "py",
+  "level": 3,
+  "key": "2026_06_py_3",
+  "question_count": 38,
+  "real_question_count": 35
+ },
+ "mapping": {
+  "2026_06_py_3#833703428": [
+   "py.function.module.import"
+  ],
+  "2026_06_py_3#833703429": [
+   "py.function.module.import"
+  ],
+  "2026_06_py_3#833703431": [
+   "py.syntax.type.type_conv"
+  ],
+  "2026_06_py_3#1321508637": [
+   "py.syntax.type.type_conv",
+   "py.operator.compare.logic"
+  ],
+  "2026_06_py_3#1321508638": [
+   "py.syntax.type.num",
+   "py.syntax.type.type_conv",
+   "py.syntax.print.print_func",
+   "py.datastruct.tuple_dict.dict"
+  ],
+  "2026_06_py_3#1321508639": [
+   "py.syntax.type.num",
+   "py.syntax.type.str",
+   "py.syntax.type.type_conv",
+   "py.syntax.print.print_func",
+   "py.operator.compare.logic",
+   "py.flow.loop.for_loop",
+   "py.datastruct.list.list_op",
+   "py.datastruct.list.list_index",
+   "py.datastruct.tuple_dict.tuple",
+   "py.algorithm.basic_algo.seq"
+  ],
+  "2026_06_py_3#1321508640": [
+   "py.syntax.type.bool"
+  ],
+  "2026_06_py_3#1321508641": [
+   "py.syntax.type.num",
+   "py.syntax.type.bool",
+   "py.syntax.type.type_conv",
+   "py.syntax.print.print_func"
+  ],
+  "2026_06_py_3#1321508642": [
+   "py.syntax.type.num",
+   "py.syntax.type.type_conv",
+   "py.syntax.print.print_func",
+   "py.operator.compare.logic",
+   "py.flow.loop.for_loop",
+   "py.datastruct.list.list_op"
+  ],
+  "2026_06_py_3#1321508643": [
+   "py.syntax.type.num",
+   "py.syntax.type.type_conv",
+   "py.syntax.print.print_func"
+  ],
+  "2026_06_py_3#1321508644": [
+   "py.syntax.type.type_conv"
+  ],
+  "2026_06_py_3#1321508645": [
+   "py.syntax.type.type_conv"
+  ],
+  "2026_06_py_3#1321508667": [
+   "py.syntax.type.num",
+   "py.syntax.type.type_conv",
+   "py.syntax.print.print_func"
+  ],
+  "2026_06_py_3#1321508668": [
+   "py.function.module.import"
+  ],
+  "2026_06_py_3#1671957248": [
+   "py.syntax.var.var_assign",
+   "py.syntax.type.str",
+   "py.flow.select.if_else",
+   "py.function.module.import"
+  ],
+  "2026_06_py_3#1671957270": [
+   "py.syntax.type.num",
+   "py.syntax.type.type_conv",
+   "py.syntax.print.print_func",
+   "py.operator.compare.logic",
+   "py.flow.select.if_else",
+   "py.flow.logic_expr.condition"
+  ],
+  "2026_06_py_3#1671957275": [
+   "py.syntax.type.num",
+   "py.syntax.type.type_conv",
+   "py.syntax.print.print_func",
+   "py.operator.compare.logic",
+   "py.flow.select.if_else",
+   "py.flow.logic_expr.condition"
+  ],
+  "2026_06_py_3#1671957276": [
+   "py.syntax.print.print_func",
+   "py.turtle.shape.figure"
+  ],
+  "2026_06_py_3#1948647009": [
+   "py.syntax.print.print_func",
+   "py.algorithm.basic_algo.seq"
+  ],
+  "2026_06_py_3#1948647010": [
+   "py.operator.compare.cmp",
+   "py.algorithm.basic_algo.seq",
+   "py.algorithm.basic_algo.sort_search"
+  ],
+  "2026_06_py_3#1948647011": [
+   "py.syntax.type.num",
+   "py.syntax.type.type_conv"
+  ],
+  "2026_06_py_3#1383923208": [
+   "py.syntax.type.num"
+  ],
+  "2026_06_py_3#1383923209": [
+   "py.syntax.type.type_conv"
+  ],
+  "2026_06_py_3#1383923210": [
+   "py.syntax.type.num",
+   "py.syntax.type.type_conv"
+  ],
+  "2026_06_py_3#1383923211": [
+   "py.datastruct.list.list_op",
+   "py.function.module.import"
+  ],
+  "2026_06_py_3#833703336": [
+   "py.datastruct.list.list_op"
+  ],
+  "2026_06_py_3#833703432": [
+   "py.syntax.type.bool",
+   "py.syntax.print.print_func"
+  ],
+  "2026_06_py_3#1321508669": [
+   "py.syntax.type.num",
+   "py.syntax.type.str",
+   "py.syntax.type.type_conv",
+   "py.syntax.print.print_func"
+  ],
+  "2026_06_py_3#1321508670": [
+   "py.syntax.type.bool",
+   "py.flow.loop.for_loop",
+   "py.function.func_def.param",
+   "py.function.func_def.return"
+  ],
+  "2026_06_py_3#1321508671": [
+   "py.operator.compare.logic",
+   "py.function.module.import"
+  ],
+  "2026_06_py_3#1321508672": [
+   "py.flow.logic_expr.condition"
+  ],
+  "2026_06_py_3#1671957277": [
+   "py.syntax.type.num"
+  ],
+  "2026_06_py_3#1383923212": [
+   "py.syntax.type.num",
+   "py.operator.compare.logic"
+  ],
+  "2026_06_py_3#1383923213": [
+   "py.function.module.import"
+  ],
+  "2026_06_py_3#2133024785": [
+   "py.operator.compare.logic",
+   "py.function.module.import"
+  ]
+ }
+}

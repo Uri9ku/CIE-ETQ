@@ -1,0 +1,168 @@
+{
+ "meta": {
+  "subject": "robot",
+  "level": 5,
+  "key": "2026_06_robot_5",
+  "question_count": 60,
+  "real_question_count": 30
+ },
+ "mapping": {
+  "2026_06_robot_5#1630168618": [
+   "robot.elec.arduino.board",
+   "robot.elec.arduino.serial",
+   "robot.program.flow.loop"
+  ],
+  "2026_06_robot_5#1630169214": [
+   "robot.elec.basic.component",
+   "robot.elec.arduino.board",
+   "robot.elec.arduino.io",
+   "robot.elec.sensor.other_sensor",
+   "robot.history.overview.component"
+  ],
+  "2026_06_robot_5#1630168337": [
+   "robot.elec.basic.circuit",
+   "robot.elec.arduino.io",
+   "robot.elec.motor.led",
+   "robot.program.flow.io_func"
+  ],
+  "2026_06_robot_5#1630169307": [
+   "robot.elec.arduino.board",
+   "robot.elec.sensor.other_sensor",
+   "robot.program.lang.type",
+   "robot.program.lang.func",
+   "robot.program.flow.loop"
+  ],
+  "2026_06_robot_5#1630168587": [
+   "robot.elec.arduino.serial"
+  ],
+  "2026_06_robot_5#1630169010": [
+   "robot.elec.arduino.board",
+   "robot.program.lang.type",
+   "robot.program.lang.operator",
+   "robot.program.lang.func"
+  ],
+  "2026_06_robot_5#1630168259": [
+   "robot.elec.arduino.board",
+   "robot.elec.arduino.serial",
+   "robot.program.lang.type",
+   "robot.program.flow.loop"
+  ],
+  "2026_06_robot_5#1630168870": [
+   "robot.elec.arduino.board"
+  ],
+  "2026_06_robot_5#1630168212": [
+   "robot.elec.basic.circuit",
+   "robot.elec.arduino.board",
+   "robot.elec.arduino.io",
+   "robot.program.lang.type",
+   "robot.program.lang.func",
+   "robot.program.flow.loop"
+  ],
+  "2026_06_robot_5#1630169182": [
+   "robot.mech.machine.work_energy",
+   "robot.elec.arduino.board",
+   "robot.program.lang.func",
+   "robot.program.flow.loop"
+  ],
+  "2026_06_robot_5#1630169041": [
+   "robot.elec.arduino.board",
+   "robot.elec.arduino.io",
+   "robot.program.lang.type",
+   "robot.program.lang.func",
+   "robot.program.flow.loop"
+  ],
+  "2026_06_robot_5#1630168650": [
+   "robot.elec.arduino.io",
+   "robot.program.lang.var",
+   "robot.program.lang.operator",
+   "robot.program.lang.func",
+   "robot.program.flow.select"
+  ],
+  "2026_06_robot_5#1630169260": [
+   "robot.mech.machine.work_energy",
+   "robot.program.lang.func"
+  ],
+  "2026_06_robot_5#1630168979": [
+   "robot.elec.arduino.board",
+   "robot.elec.motor.led",
+   "robot.program.lang.func",
+   "robot.program.flow.loop",
+   "robot.program.concept.digital_analog"
+  ],
+  "2026_06_robot_5#1630168540": [
+   "robot.mech.machine.work_energy",
+   "robot.elec.arduino.board",
+   "robot.elec.arduino.io",
+   "robot.elec.motor.led",
+   "robot.program.lang.func",
+   "robot.program.flow.loop",
+   "robot.program.concept.digital_analog"
+  ],
+  "2026_06_robot_5#1630168509": [
+   "robot.program.lang.operator"
+  ],
+  "2026_06_robot_5#1630168901": [
+   "robot.elec.arduino.io",
+   "robot.elec.arduino.serial",
+   "robot.program.lang.operator"
+  ],
+  "2026_06_robot_5#1630168696": [
+   "robot.program.lang.operator"
+  ],
+  "2026_06_robot_5#1630168932": [
+   "robot.elec.arduino.board",
+   "robot.elec.arduino.io",
+   "robot.elec.motor.led",
+   "robot.program.concept.digital_analog"
+  ],
+  "2026_06_robot_5#1630168290": [
+   "robot.elec.arduino.board",
+   "robot.program.lang.func",
+   "robot.program.flow.loop",
+   "robot.program.flow.io_func",
+   "robot.program.concept.digital_analog"
+  ],
+  "2026_06_robot_5#1630168728": [
+   "robot.elec.arduino.io",
+   "robot.program.lang.operator"
+  ],
+  "2026_06_robot_5#1630168759": [
+   "robot.elec.arduino.serial"
+  ],
+  "2026_06_robot_5#1630168400": [
+   "robot.program.lang.var"
+  ],
+  "2026_06_robot_5#1630169104": [
+   "robot.elec.arduino.board",
+   "robot.program.lang.func",
+   "robot.program.flow.loop",
+   "robot.program.flow.io_func",
+   "robot.program.concept.digital_analog"
+  ],
+  "2026_06_robot_5#1630168368": [
+   "robot.elec.motor.led"
+  ],
+  "2026_06_robot_5#1630168791": [
+   "robot.mech.machine.work_energy",
+   "robot.elec.arduino.board"
+  ],
+  "2026_06_robot_5#1630168477": [
+   "robot.elec.arduino.io"
+  ],
+  "2026_06_robot_5#1630168431": [
+   "robot.program.lang.operator",
+   "robot.program.lang.func",
+   "robot.program.flow.select"
+  ],
+  "2026_06_robot_5#1630169135": [
+   "robot.elec.arduino.serial"
+  ],
+  "2026_06_robot_5#1630168838": [
+   "robot.elec.basic.component",
+   "robot.elec.arduino.board",
+   "robot.program.lang.func",
+   "robot.program.flow.loop",
+   "robot.program.flow.io_func"
+  ]
+ }
+}

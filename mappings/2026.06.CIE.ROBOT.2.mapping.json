@@ -1,0 +1,214 @@
+{
+ "meta": {
+  "subject": "robot",
+  "level": 2,
+  "key": "2026_06_robot_2",
+  "question_count": 50,
+  "real_question_count": 49
+ },
+ "mapping": {
+  "2026_06_robot_2#766433860": [
+   "robot.history.overview.generation"
+  ],
+  "2026_06_robot_2#766433891": [
+   "robot.mech.machine.simple_machine"
+  ],
+  "2026_06_robot_2#766433938": [
+   "robot.elec.basic.voltage",
+   "robot.history.overview.power"
+  ],
+  "2026_06_robot_2#766434016": [
+   "robot.mech.machine.work_energy"
+  ],
+  "2026_06_robot_2#766434080": [
+   "robot.mech.wheel.wheel_axle"
+  ],
+  "2026_06_robot_2#766434127": [
+   "robot.mech.wheel.wheel_axle"
+  ],
+  "2026_06_robot_2#766434158": [
+   "robot.mech.machine.work_energy"
+  ],
+  "2026_06_robot_2#766434190": [
+   "robot.mech.structure.friction",
+   "robot.mech.machine.simple_machine"
+  ],
+  "2026_06_robot_2#766434221": [
+   "robot.mech.lever.lever_class",
+   "robot.mech.machine.work_energy",
+   "robot.mech.machine.simple_machine"
+  ],
+  "2026_06_robot_2#766434238": [
+   "robot.mech.structure.friction",
+   "robot.mech.machine.work_energy"
+  ],
+  "2026_06_robot_2#766434269": [
+   "robot.mech.gear.gear_mesh",
+   "robot.mech.gear.gear_use",
+   "robot.mech.intermit.cam",
+   "robot.mech.intermit.ratchet",
+   "robot.mech.intermit.geneva"
+  ],
+  "2026_06_robot_2#766434379": [
+   "robot.mech.gear.gear_mesh",
+   "robot.mech.intermit.cam",
+   "robot.mech.intermit.link"
+  ],
+  "2026_06_robot_2#766434410": [
+   "robot.mech.pulley.pulley_block",
+   "robot.mech.intermit.cam",
+   "robot.mech.intermit.ratchet",
+   "robot.mech.intermit.link",
+   "robot.history.overview.component"
+  ],
+  "2026_06_robot_2#766434442": [
+   "robot.mech.pulley.pulley_block",
+   "robot.mech.gear.gear_mesh",
+   "robot.mech.intermit.cam",
+   "robot.mech.intermit.ratchet"
+  ],
+  "2026_06_robot_2#766434474": [
+   "robot.mech.intermit.link"
+  ],
+  "2026_06_robot_2#766434521": [
+   "robot.mech.pulley.pulley_block",
+   "robot.mech.intermit.cam",
+   "robot.mech.intermit.ratchet"
+  ],
+  "2026_06_robot_2#766434552": [
+   "robot.mech.intermit.cam"
+  ],
+  "2026_06_robot_2#766434583": [
+   "robot.mech.intermit.cam",
+   "robot.mech.intermit.link"
+  ],
+  "2026_06_robot_2#766434615": [
+   "robot.mech.intermit.cam",
+   "robot.mech.intermit.crank_slider"
+  ],
+  "2026_06_robot_2#766434647": [
+   "robot.mech.intermit.ratchet"
+  ],
+  "2026_06_robot_2#766434694": [
+   "robot.mech.pulley.pulley_block",
+   "robot.mech.intermit.cam",
+   "robot.mech.intermit.ratchet",
+   "robot.mech.intermit.link"
+  ],
+  "2026_06_robot_2#766434725": [
+   "robot.mech.intermit.link"
+  ],
+  "2026_06_robot_2#766434757": [
+   "robot.mech.intermit.geneva",
+   "robot.mech.intermit.link"
+  ],
+  "2026_06_robot_2#766434788": [
+   "robot.mech.intermit.crank_slider"
+  ],
+  "2026_06_robot_2#766434819": [
+   "robot.mech.intermit.link",
+   "robot.mech.structure.stability"
+  ],
+  "2026_06_robot_2#766434852": [
+   "robot.mech.gear.gear_mesh",
+   "robot.mech.intermit.cam",
+   "robot.mech.intermit.ratchet",
+   "robot.mech.intermit.link"
+  ],
+  "2026_06_robot_2#766434883": [
+   "robot.mech.gear.gear_mesh",
+   "robot.mech.gear.gear_use",
+   "robot.mech.chain.chain_drive"
+  ],
+  "2026_06_robot_2#766434987": [
+   "robot.mech.gear.gear_mesh",
+   "robot.mech.gear.gear_use",
+   "robot.mech.chain.chain_drive"
+  ],
+  "2026_06_robot_2#766435019": [
+   "robot.mech.gear.gear_mesh",
+   "robot.mech.gear.gear_use",
+   "robot.mech.chain.chain_drive",
+   "robot.mech.chain.belt_drive",
+   "robot.mech.chain.slip"
+  ],
+  "2026_06_robot_2#766435035": [
+   "robot.mech.structure.friction",
+   "robot.mech.machine.work_energy",
+   "robot.program.lang.operator"
+  ],
+  "2026_06_robot_2#766434049": [
+   "robot.mech.structure.friction",
+   "robot.program.lang.operator"
+  ],
+  "2026_06_robot_2#766434300": [],
+  "2026_06_robot_2#766434914": [
+   "robot.mech.intermit.cam",
+   "robot.mech.intermit.ratchet",
+   "robot.mech.intermit.link"
+  ],
+  "2026_06_robot_2#766434946": [
+   "robot.mech.chain.chain_drive",
+   "robot.mech.chain.belt_drive"
+  ],
+  "2026_06_robot_2#766435067": [
+   "robot.history.overview.component"
+  ],
+  "2026_06_robot_2#766433954": [
+   "robot.history.overview.law"
+  ],
+  "2026_06_robot_2#766433985": [
+   "robot.mech.machine.work_energy"
+  ],
+  "2026_06_robot_2#766434096": [
+   "robot.mech.machine.work_energy",
+   "robot.program.lang.operator"
+  ],
+  "2026_06_robot_2#766434332": [
+   "robot.mech.machine.simple_machine"
+  ],
+  "2026_06_robot_2#766434347": [
+   "robot.mech.gear.gear_mesh"
+  ],
+  "2026_06_robot_2#766435098": [
+   "robot.mech.chain.chain_drive"
+  ],
+  "2026_06_robot_2#766435128": [
+   "robot.mech.gear.gear_ratio",
+   "robot.mech.chain.belt_drive"
+  ],
+  "2026_06_robot_2#766435160": [
+   "robot.mech.chain.chain_drive"
+  ],
+  "2026_06_robot_2#766435175": [
+   "robot.mech.gear.gear_mesh",
+   "robot.mech.gear.gear_ratio"
+  ],
+  "2026_06_robot_2#766435204": [
+   "robot.mech.intermit.ratchet"
+  ],
+  "2026_06_robot_2#695150285": [
+   "robot.mech.gear.gear_mesh",
+   "robot.mech.intermit.ratchet",
+   "robot.mech.intermit.link",
+   "robot.mech.structure.friction",
+   "robot.program.lang.operator"
+  ],
+  "2026_06_robot_2#695150286": [
+   "robot.mech.intermit.cam",
+   "robot.mech.intermit.ratchet",
+   "robot.mech.intermit.link",
+   "robot.mech.intermit.crank_slider"
+  ],
+  "2026_06_robot_2#695150287": [
+   "robot.mech.intermit.ratchet"
+  ],
+  "2026_06_robot_2#695150288": [
+   "robot.mech.chain.chain_drive",
+   "robot.mech.chain.belt_drive",
+   "robot.mech.intermit.ratchet",
+   "robot.mech.intermit.link",
+   "robot.mech.intermit.crank_slider"
+  ]
+ }
+}

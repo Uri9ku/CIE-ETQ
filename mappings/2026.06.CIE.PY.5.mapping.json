@@ -1,0 +1,207 @@
+{
+ "meta": {
+  "subject": "py",
+  "level": 5,
+  "key": "2026_06_py_5",
+  "question_count": 38,
+  "real_question_count": 35
+ },
+ "mapping": {
+  "2026_06_py_5#2095932552": [
+   "py.syntax.type.num",
+   "py.syntax.type.type_conv",
+   "py.syntax.print.print_func",
+   "py.operator.compare.logic",
+   "py.flow.loop.for_loop"
+  ],
+  "2026_06_py_5#1518851797": [
+   "py.operator.compare.logic",
+   "py.flow.loop.for_loop"
+  ],
+  "2026_06_py_5#1518851799": [
+   "py.syntax.type.num",
+   "py.syntax.type.type_conv",
+   "py.syntax.print.print_func",
+   "py.operator.compare.logic",
+   "py.flow.loop.for_loop"
+  ],
+  "2026_06_py_5#1518851800": [
+   "py.datastruct.tuple_dict.dict"
+  ],
+  "2026_06_py_5#344732730": [
+   "py.datastruct.tuple_dict.dict"
+  ],
+  "2026_06_py_5#344732731": [
+   "py.syntax.print.print_func",
+   "py.operator.compare.logic",
+   "py.flow.loop.for_loop",
+   "py.datastruct.string_op.str_method"
+  ],
+  "2026_06_py_5#344732738": [
+   "py.syntax.type.num",
+   "py.syntax.type.type_conv",
+   "py.syntax.print.print_func",
+   "py.operator.arithmetic.div_mod",
+   "py.operator.compare.cmp",
+   "py.operator.compare.logic",
+   "py.flow.select.if_else",
+   "py.flow.loop.for_loop",
+   "py.algorithm.basic_algo.math_problem"
+  ],
+  "2026_06_py_5#344732739": [
+   "py.operator.compare.logic",
+   "py.flow.loop.for_loop",
+   "py.datastruct.list.list_op"
+  ],
+  "2026_06_py_5#1599631119": [
+   "py.datastruct.list.list_op"
+  ],
+  "2026_06_py_5#1599631121": [
+   "py.syntax.type.str",
+   "py.syntax.print.print_func",
+   "py.flow.select.if_else"
+  ],
+  "2026_06_py_5#1599631126": [
+   "py.syntax.type.str",
+   "py.operator.compare.logic"
+  ],
+  "2026_06_py_5#1599631149": [
+   "py.syntax.type.num",
+   "py.syntax.type.str",
+   "py.syntax.type.type_conv",
+   "py.syntax.print.print_func"
+  ],
+  "2026_06_py_5#1599631150": [
+   "py.datastruct.tuple_dict.dict"
+  ],
+  "2026_06_py_5#1599631182": [
+   "py.syntax.type.num",
+   "py.operator.arithmetic.div_mod",
+   "py.flow.select.if_else",
+   "py.datastruct.tuple_dict.dict"
+  ],
+  "2026_06_py_5#1599631183": [
+   "py.operator.compare.logic",
+   "py.function.module.import",
+   "py.turtle.pen.pen_color",
+   "py.turtle.screen.bg"
+  ],
+  "2026_06_py_5#1599631212": [
+   "py.syntax.type.num",
+   "py.syntax.type.type_conv",
+   "py.operator.compare.logic",
+   "py.flow.select.if_else",
+   "py.flow.loop.for_loop",
+   "py.datastruct.list.list_op",
+   "py.function.module.import",
+   "py.function.module.random"
+  ],
+  "2026_06_py_5#1599631213": [
+   "py.syntax.type.str",
+   "py.syntax.type.bool",
+   "py.syntax.print.format",
+   "py.flow.loop.while_loop"
+  ],
+  "2026_06_py_5#1599631214": [
+   "py.syntax.type.num",
+   "py.syntax.type.type_conv",
+   "py.syntax.print.print_func",
+   "py.operator.compare.logic",
+   "py.datastruct.list.list_op",
+   "py.function.module.import",
+   "py.function.module.random"
+  ],
+  "2026_06_py_5#1497931135": [
+   "py.syntax.type.num",
+   "py.syntax.type.type_conv",
+   "py.operator.compare.logic",
+   "py.datastruct.list.list_op",
+   "py.function.module.random"
+  ],
+  "2026_06_py_5#1497931139": [
+   "py.syntax.type.num",
+   "py.syntax.type.str",
+   "py.syntax.type.type_conv",
+   "py.syntax.print.print_func",
+   "py.datastruct.string_op.str_method"
+  ],
+  "2026_06_py_5#1497931163": [
+   "py.datastruct.list.list_op"
+  ],
+  "2026_06_py_5#1497931165": [
+   "py.syntax.type.num",
+   "py.syntax.type.type_conv",
+   "py.syntax.print.print_func",
+   "py.operator.compare.logic",
+   "py.flow.loop.for_loop",
+   "py.datastruct.list.list_op"
+  ],
+  "2026_06_py_5#710564229": [
+   "py.syntax.type.type_conv",
+   "py.operator.arithmetic.add_sub",
+   "py.datastruct.tuple_dict.tuple"
+  ],
+  "2026_06_py_5#710564231": [
+   "py.syntax.type.num",
+   "py.syntax.type.type_conv",
+   "py.syntax.print.print_func",
+   "py.datastruct.list.list_op",
+   "py.datastruct.list.list_index"
+  ],
+  "2026_06_py_5#710564262": [
+   "py.syntax.type.str",
+   "py.syntax.type.type_conv",
+   "py.syntax.print.print_func",
+   "py.operator.compare.logic",
+   "py.flow.loop.for_loop",
+   "py.datastruct.list.list_op"
+  ],
+  "2026_06_py_5#1518851833": [
+   "py.syntax.type.type_conv",
+   "py.operator.compare.cmp",
+   "py.datastruct.list.list_op"
+  ],
+  "2026_06_py_5#1599631122": [
+   "py.datastruct.tuple_dict.tuple"
+  ],
+  "2026_06_py_5#1599631125": [
+   "py.syntax.type.str",
+   "py.datastruct.list.list_index",
+   "py.datastruct.string_op.str_slice"
+  ],
+  "2026_06_py_5#1599631151": [
+   "py.flow.loop.for_loop",
+   "py.turtle.move.turn",
+   "py.turtle.move.goto",
+   "py.algorithm.basic_algo.seq"
+  ],
+  "2026_06_py_5#1599631157": [
+   "py.datastruct.list.list_op",
+   "py.datastruct.tuple_dict.dict",
+   "py.function.func_def.return"
+  ],
+  "2026_06_py_5#1599631181": [
+   "py.datastruct.tuple_dict.dict"
+  ],
+  "2026_06_py_5#1599631185": [
+   "py.datastruct.list.list_op",
+   "py.datastruct.string_op.str_method",
+   "py.function.func_def.return",
+   "py.function.module.import"
+  ],
+  "2026_06_py_5#1599631215": [
+   "py.operator.arithmetic.div_mod",
+   "py.datastruct.tuple_dict.dict"
+  ],
+  "2026_06_py_5#2073954743": [
+   "py.syntax.type.num",
+   "py.syntax.type.type_conv",
+   "py.syntax.print.print_func"
+  ],
+  "2026_06_py_5#710564255": [
+   "py.syntax.type.str",
+   "py.operator.compare.logic",
+   "py.algorithm.basic_algo.sort_search"
+  ]
+ }
+}

@@ -1,0 +1,101 @@
+{
+ "meta": {
+  "subject": "c",
+  "level": 5,
+  "key": "2026_06_c_5",
+  "question_count": 20,
+  "real_question_count": 20
+ },
+ "mapping": {
+  "2026_06_c_5#838054541": [
+   "c.flow.select.if_else",
+   "c.algo.greedy.greedy",
+   "c.algo.dp.backpack",
+   "c.algo.dp.dp"
+  ],
+  "2026_06_c_5#838054542": [
+   "c.datastruct.array.array_def",
+   "c.datastruct.array.array_index",
+   "c.algo.prefix.prefix_sum"
+  ],
+  "2026_06_c_5#838054543": [
+   "c.operator.arithmetic.op",
+   "c.operator.arithmetic.assign",
+   "c.flow.select.if_else",
+   "c.datastruct.array.array_def"
+  ],
+  "2026_06_c_5#838054544": [
+   "c.datastruct.array.array_def",
+   "c.algo.search.binary_search"
+  ],
+  "2026_06_c_5#838054545": [
+   "c.datastruct.array.array_def",
+   "c.datastruct.string.cstr",
+   "c.pointer.ptr.ptr_base",
+   "c.algo.dp.backpack"
+  ],
+  "2026_06_c_5#838054546": [
+   "c.datastruct.struct.class",
+   "c.algo.search.dfs_bfs"
+  ],
+  "2026_06_c_5#838054547": [
+   "c.datastruct.struct.class",
+   "c.function.func_def.def"
+  ],
+  "2026_06_c_5#838054548": [
+   "c.operator.arithmetic.op",
+   "c.datastruct.array.array_def",
+   "c.datastruct.array.array_index",
+   "c.datastruct.struct.class"
+  ],
+  "2026_06_c_5#838055500": [
+   "c.function.lib.math_func"
+  ],
+  "2026_06_c_5#1758758168": [
+   "c.operator.arithmetic.op",
+   "c.function.lib.math_func",
+   "c.base.number.bin_hex"
+  ],
+  "2026_06_c_5#74040053": [
+   "c.function.recursion.recursion"
+  ],
+  "2026_06_c_5#838054572": [
+   "c.flow.select.if_else",
+   "c.algo.greedy.greedy",
+   "c.algo.search.dfs_bfs"
+  ],
+  "2026_06_c_5#838054573": [
+   "c.datastruct.array.array_def",
+   "c.datastruct.array.multidim",
+   "c.algo.prefix.prefix_sum"
+  ],
+  "2026_06_c_5#838054574": [
+   "c.datastruct.struct.class"
+  ],
+  "2026_06_c_5#838054575": [
+   "c.algo.search.binary_search"
+  ],
+  "2026_06_c_5#838054576": [
+   "c.pointer.ptr.ptr_base",
+   "c.algo.search.dfs_bfs"
+  ],
+  "2026_06_c_5#838054577": [
+   "c.datastruct.struct.class"
+  ],
+  "2026_06_c_5#838054578": [
+   "c.syntax.var.var_def",
+   "c.syntax.var.const",
+   "c.datastruct.string.cstr",
+   "c.datastruct.struct.class",
+   "c.function.func_def.def",
+   "c.base.number.convert"
+  ],
+  "2026_06_c_5#838054579": [
+   "c.operator.arithmetic.op"
+  ],
+  "2026_06_c_5#838055501": [
+   "c.operator.logic.cmp",
+   "c.algo.search.dfs_bfs"
+  ]
+ }
+}

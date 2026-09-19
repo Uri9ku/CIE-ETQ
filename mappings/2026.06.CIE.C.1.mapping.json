@@ -1,0 +1,113 @@
+{
+ "meta": {
+  "subject": "c",
+  "level": 1,
+  "key": "2026_06_c_1",
+  "question_count": 20,
+  "real_question_count": 20
+ },
+ "mapping": {
+  "2026_06_c_1#781212910": [
+   "c.syntax.env.compile",
+   "c.syntax.env.dev",
+   "c.operator.arithmetic.inc_dec"
+  ],
+  "2026_06_c_1#781212911": [
+   "c.syntax.var.var_def",
+   "c.operator.arithmetic.inc_dec",
+   "c.datastruct.struct.class"
+  ],
+  "2026_06_c_1#781212913": [
+   "c.operator.arithmetic.inc_dec"
+  ],
+  "2026_06_c_1#781212914": [
+   "c.syntax.var.var_def",
+   "c.syntax.io.cin_cout",
+   "c.operator.arithmetic.inc_dec",
+   "c.operator.logic.bitwise"
+  ],
+  "2026_06_c_1#781212915": [
+   "c.operator.arithmetic.inc_dec",
+   "c.function.func_def.def",
+   "c.function.lib.math_func"
+  ],
+  "2026_06_c_1#781212916": [
+   "c.syntax.var.var_def",
+   "c.operator.arithmetic.inc_dec"
+  ],
+  "2026_06_c_1#781212917": [
+   "c.syntax.var.var_def",
+   "c.syntax.io.cin_cout",
+   "c.operator.arithmetic.inc_dec",
+   "c.operator.logic.logical",
+   "c.operator.logic.bitwise",
+   "c.flow.select.if_else"
+  ],
+  "2026_06_c_1#781212918": [
+   "c.syntax.var.var_def",
+   "c.syntax.io.cin_cout",
+   "c.operator.arithmetic.inc_dec",
+   "c.operator.arithmetic.assign",
+   "c.operator.logic.bitwise",
+   "c.flow.loop.for_loop",
+   "c.flow.loop.while_loop"
+  ],
+  "2026_06_c_1#781212940": [
+   "c.syntax.var.var_def",
+   "c.syntax.io.cin_cout",
+   "c.operator.arithmetic.inc_dec",
+   "c.operator.arithmetic.assign",
+   "c.operator.logic.bitwise",
+   "c.flow.loop.for_loop"
+  ],
+  "2026_06_c_1#781212941": [
+   "c.syntax.env.compile",
+   "c.operator.arithmetic.inc_dec"
+  ],
+  "2026_06_c_1#781212912": [
+   "c.syntax.var.var_def",
+   "c.syntax.var.type",
+   "c.operator.arithmetic.inc_dec"
+  ],
+  "2026_06_c_1#781212942": [
+   "c.operator.arithmetic.op",
+   "c.operator.arithmetic.inc_dec"
+  ],
+  "2026_06_c_1#781212943": [
+   "c.syntax.var.var_def",
+   "c.syntax.io.cin_cout",
+   "c.syntax.io.scanf_printf",
+   "c.function.func_def.def"
+  ],
+  "2026_06_c_1#781212944": [
+   "c.function.func_def.def",
+   "c.function.lib.math_func"
+  ],
+  "2026_06_c_1#781212945": [
+   "c.operator.arithmetic.op",
+   "c.function.lib.math_func"
+  ],
+  "2026_06_c_1#781212946": [
+   "c.flow.select.if_else"
+  ],
+  "2026_06_c_1#781212947": [
+   "c.operator.arithmetic.inc_dec",
+   "c.operator.logic.logical",
+   "c.operator.logic.bitwise"
+  ],
+  "2026_06_c_1#781212948": [
+   "c.flow.loop.for_loop",
+   "c.flow.loop.while_loop",
+   "c.flow.loop.do_while"
+  ],
+  "2026_06_c_1#781212949": [
+   "c.syntax.var.var_def",
+   "c.operator.arithmetic.inc_dec",
+   "c.flow.loop.for_loop"
+  ],
+  "2026_06_c_1#781213904": [
+   "c.syntax.io.cin_cout",
+   "c.base.number.convert"
+  ]
+ }
+}

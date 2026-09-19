@@ -1,0 +1,155 @@
+{
+ "meta": {
+  "subject": "robot",
+  "level": 3,
+  "key": "2026_06_robot_3",
+  "question_count": 31,
+  "real_question_count": 30
+ },
+ "mapping": {
+  "2026_06_robot_3#45106170": [
+   "robot.elec.basic.voltage"
+  ],
+  "2026_06_robot_3#45106204": [
+   "robot.elec.arduino.board"
+  ],
+  "2026_06_robot_3#45106232": [
+   "robot.elec.basic.resistance",
+   "robot.elec.basic.circuit",
+   "robot.elec.basic.component",
+   "robot.elec.sensor.other_sensor",
+   "robot.history.overview.component",
+   "robot.history.overview.power"
+  ],
+  "2026_06_robot_3#45106265": [
+   "robot.elec.arduino.board"
+  ],
+  "2026_06_robot_3#45106288": [
+   "robot.elec.basic.voltage"
+  ],
+  "2026_06_robot_3#45106407": [
+   "robot.elec.arduino.io",
+   "robot.program.concept.digital_analog"
+  ],
+  "2026_06_robot_3#45106430": [
+   "robot.elec.arduino.io",
+   "robot.elec.sensor.ultrasonic",
+   "robot.elec.sensor.other_sensor",
+   "robot.program.lang.func",
+   "robot.history.overview.component"
+  ],
+  "2026_06_robot_3#45106460": [
+   "robot.elec.arduino.io",
+   "robot.program.concept.digital_analog"
+  ],
+  "2026_06_robot_3#45106497": [
+   "robot.elec.basic.circuit"
+  ],
+  "2026_06_robot_3#45106528": [
+   "robot.mech.machine.work_energy"
+  ],
+  "2026_06_robot_3#45106668": [
+   "robot.program.flow.select",
+   "robot.program.flow.loop"
+  ],
+  "2026_06_robot_3#45106699": [
+   "robot.elec.arduino.board",
+   "robot.elec.motor.led"
+  ],
+  "2026_06_robot_3#45106728": [
+   "robot.program.lang.func"
+  ],
+  "2026_06_robot_3#45106758": [
+   "robot.program.lang.var",
+   "robot.program.lang.func"
+  ],
+  "2026_06_robot_3#45106791": [
+   "robot.elec.arduino.serial"
+  ],
+  "2026_06_robot_3#45106870": [
+   "robot.elec.arduino.serial",
+   "robot.elec.sensor.ultrasonic",
+   "robot.elec.sensor.other_sensor",
+   "robot.program.lang.func",
+   "robot.history.overview.component"
+  ],
+  "2026_06_robot_3#45106901": [
+   "robot.elec.basic.voltage",
+   "robot.elec.arduino.board",
+   "robot.elec.arduino.io",
+   "robot.program.lang.var"
+  ],
+  "2026_06_robot_3#45106930": [
+   "robot.elec.arduino.board",
+   "robot.elec.motor.led",
+   "robot.program.lang.var"
+  ],
+  "2026_06_robot_3#45106961": [
+   "robot.elec.basic.voltage",
+   "robot.elec.arduino.board",
+   "robot.elec.arduino.io",
+   "robot.elec.sensor.potentiometer",
+   "robot.elec.motor.servo"
+  ],
+  "2026_06_robot_3#45106999": [
+   "robot.elec.basic.conduct"
+  ],
+  "2026_06_robot_3#45106312": [
+   "robot.elec.basic.component",
+   "robot.history.overview.component",
+   "robot.history.overview.power"
+  ],
+  "2026_06_robot_3#45106335": [
+   "robot.elec.basic.voltage",
+   "robot.elec.basic.circuit",
+   "robot.elec.basic.component"
+  ],
+  "2026_06_robot_3#45106551": [
+   "robot.elec.basic.voltage",
+   "robot.elec.basic.resistance",
+   "robot.elec.arduino.io",
+   "robot.elec.sensor.ultrasonic",
+   "robot.elec.sensor.potentiometer",
+   "robot.elec.sensor.other_sensor",
+   "robot.program.lang.func",
+   "robot.history.overview.component"
+  ],
+  "2026_06_robot_3#45106585": [
+   "robot.elec.arduino.board",
+   "robot.program.lang.type",
+   "robot.program.lang.var",
+   "robot.program.lang.func",
+   "robot.program.concept.digital_analog"
+  ],
+  "2026_06_robot_3#45106814": [
+   "robot.elec.arduino.board",
+   "robot.history.overview.power"
+  ],
+  "2026_06_robot_3#45106359": [
+   "robot.elec.basic.circuit",
+   "robot.history.overview.component",
+   "robot.history.overview.power"
+  ],
+  "2026_06_robot_3#45106382": [
+   "robot.elec.basic.voltage",
+   "robot.elec.basic.resistance"
+  ],
+  "2026_06_robot_3#45106610": [
+   "robot.elec.arduino.board",
+   "robot.elec.arduino.io",
+   "robot.program.lang.func",
+   "robot.program.concept.digital_analog"
+  ],
+  "2026_06_robot_3#45106635": [
+   "robot.program.lang.type"
+  ],
+  "2026_06_robot_3#45106841": [
+   "robot.elec.arduino.board",
+   "robot.elec.sensor.ultrasonic",
+   "robot.elec.sensor.infrared",
+   "robot.elec.sensor.other_sensor",
+   "robot.elec.motor.led",
+   "robot.history.overview.component"
+  ]
+ }
+}

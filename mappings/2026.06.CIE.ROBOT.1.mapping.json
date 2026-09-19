@@ -1,0 +1,206 @@
+{
+ "meta": {
+  "subject": "robot",
+  "level": 1,
+  "key": "2026_06_robot_1",
+  "question_count": 50,
+  "real_question_count": 49
+ },
+ "mapping": {
+  "2026_06_robot_1#815828079": [
+   "robot.history.overview.component",
+   "robot.history.overview.power"
+  ],
+  "2026_06_robot_1#815828127": [],
+  "2026_06_robot_1#815828237": [
+   "robot.mech.structure.triangle"
+  ],
+  "2026_06_robot_1#815828269": [
+   "robot.mech.lever.lever_use"
+  ],
+  "2026_06_robot_1#815828302": [
+   "robot.mech.structure.stability"
+  ],
+  "2026_06_robot_1#815828349": [
+   "robot.mech.lever.lever_class",
+   "robot.mech.pulley.pulley_block",
+   "robot.mech.gear.gear_mesh",
+   "robot.mech.machine.simple_machine"
+  ],
+  "2026_06_robot_1#815828411": [],
+  "2026_06_robot_1#815828458": [
+   "robot.mech.pulley.pulley_block",
+   "robot.mech.wheel.wheel_axle",
+   "robot.mech.gear.gear_mesh",
+   "robot.mech.machine.simple_machine"
+  ],
+  "2026_06_robot_1#815828491": [
+   "robot.mech.structure.stability",
+   "robot.program.lang.operator"
+  ],
+  "2026_06_robot_1#815828522": [
+   "robot.mech.lever.lever_class"
+  ],
+  "2026_06_robot_1#815828554": [
+   "robot.mech.machine.work_energy"
+  ],
+  "2026_06_robot_1#815828585": [
+   "robot.mech.lever.lever_class",
+   "robot.mech.machine.simple_machine"
+  ],
+  "2026_06_robot_1#815828711": [
+   "robot.mech.pulley.pulley_block",
+   "robot.mech.wheel.wheel_axle",
+   "robot.mech.gear.gear_mesh",
+   "robot.mech.machine.simple_machine"
+  ],
+  "2026_06_robot_1#815828758": [
+   "robot.mech.gear.gear_mesh"
+  ],
+  "2026_06_robot_1#815828789": [
+   "robot.mech.lever.lever_class",
+   "robot.mech.lever.lever_use"
+  ],
+  "2026_06_robot_1#815828820": [
+   "robot.mech.lever.lever_class",
+   "robot.mech.pulley.pulley_fixed",
+   "robot.mech.pulley.pulley_move",
+   "robot.mech.pulley.pulley_block",
+   "robot.mech.wheel.wheel_axle"
+  ],
+  "2026_06_robot_1#815828852": [
+   "robot.mech.pulley.pulley_block"
+  ],
+  "2026_06_robot_1#815828900": [
+   "robot.mech.pulley.pulley_fixed",
+   "robot.mech.pulley.pulley_move",
+   "robot.mech.pulley.pulley_block"
+  ],
+  "2026_06_robot_1#815828931": [
+   "robot.mech.pulley.pulley_fixed",
+   "robot.mech.pulley.pulley_block"
+  ],
+  "2026_06_robot_1#815828962": [
+   "robot.mech.pulley.pulley_fixed",
+   "robot.mech.pulley.pulley_move",
+   "robot.mech.pulley.pulley_block",
+   "robot.mech.machine.work_energy"
+  ],
+  "2026_06_robot_1#815828994": [
+   "robot.mech.lever.lever_class",
+   "robot.mech.wheel.wheel_axle"
+  ],
+  "2026_06_robot_1#815829025": [
+   "robot.mech.lever.lever_class",
+   "robot.mech.lever.lever_use"
+  ],
+  "2026_06_robot_1#815829056": [
+   "robot.mech.lever.lever_class"
+  ],
+  "2026_06_robot_1#815829089": [
+   "robot.mech.gear.gear_mesh",
+   "robot.mech.gear.gear_ratio"
+  ],
+  "2026_06_robot_1#815829294": [
+   "robot.mech.gear.gear_mesh",
+   "robot.mech.gear.gear_ratio",
+   "robot.mech.gear.gear_use",
+   "robot.program.lang.operator"
+  ],
+  "2026_06_robot_1#815829325": [
+   "robot.mech.gear.gear_mesh",
+   "robot.mech.gear.gear_use"
+  ],
+  "2026_06_robot_1#815829356": [
+   "robot.mech.gear.gear_mesh",
+   "robot.mech.gear.gear_use"
+  ],
+  "2026_06_robot_1#815829387": [
+   "robot.mech.gear.gear_mesh",
+   "robot.mech.gear.gear_use"
+  ],
+  "2026_06_robot_1#815829419": [
+   "robot.mech.gear.gear_mesh",
+   "robot.mech.gear.gear_ratio",
+   "robot.mech.gear.gear_use",
+   "robot.mech.chain.chain_drive"
+  ],
+  "2026_06_robot_1#815829450": [
+   "robot.history.overview.component"
+  ],
+  "2026_06_robot_1#815828159": [
+   "robot.mech.lever.lever_class",
+   "robot.mech.lever.lever_arm"
+  ],
+  "2026_06_robot_1#815828616": [
+   "robot.mech.gear.gear_mesh",
+   "robot.mech.gear.gear_ratio",
+   "robot.mech.gear.gear_use"
+  ],
+  "2026_06_robot_1#815829120": [
+   "robot.mech.gear.gear_mesh",
+   "robot.mech.gear.gear_use"
+  ],
+  "2026_06_robot_1#815829152": [
+   "robot.mech.chain.slip"
+  ],
+  "2026_06_robot_1#815829481": [
+   "robot.history.overview.component"
+  ],
+  "2026_06_robot_1#815828190": [
+   "robot.mech.structure.triangle",
+   "robot.mech.structure.stability"
+  ],
+  "2026_06_robot_1#815828380": [
+   "robot.mech.structure.friction",
+   "robot.mech.machine.simple_machine"
+  ],
+  "2026_06_robot_1#815828648": [
+   "robot.mech.machine.work_energy"
+  ],
+  "2026_06_robot_1#815828679": [
+   "robot.mech.lever.lever_class",
+   "robot.mech.lever.lever_arm"
+  ],
+  "2026_06_robot_1#815829183": [
+   "robot.mech.wheel.wheel_axle"
+  ],
+  "2026_06_robot_1#815829214": [
+   "robot.mech.pulley.pulley_fixed",
+   "robot.mech.pulley.pulley_block"
+  ],
+  "2026_06_robot_1#815829230": [
+   "robot.mech.lever.lever_class"
+  ],
+  "2026_06_robot_1#815829261": [
+   "robot.mech.chain.chain_drive"
+  ],
+  "2026_06_robot_1#815829514": [
+   "robot.mech.chain.chain_drive"
+  ],
+  "2026_06_robot_1#815829545": [
+   "robot.mech.lever.lever_class",
+   "robot.mech.machine.work_energy"
+  ],
+  "2026_06_robot_1#222920552": [
+   "robot.mech.pulley.pulley_fixed",
+   "robot.mech.pulley.pulley_move",
+   "robot.mech.pulley.pulley_block",
+   "robot.mech.wheel.wheel_axle",
+   "robot.mech.machine.simple_machine"
+  ],
+  "2026_06_robot_1#222920553": [
+   "robot.mech.structure.triangle",
+   "robot.mech.structure.stability",
+   "robot.mech.machine.work_energy"
+  ],
+  "2026_06_robot_1#222920554": [
+   "robot.mech.pulley.pulley_block",
+   "robot.mech.machine.work_energy"
+  ],
+  "2026_06_robot_1#222920555": [
+   "robot.mech.pulley.pulley_block",
+   "robot.mech.structure.stability"
+  ]
+ }
+}
