@@ -1,0 +1,571 @@
+{
+ "robot": {
+  "name": "机器人技术",
+  "chapters": {
+   "mech": {
+    "name": "机械结构与传动",
+    "sections": {
+     "lever": [
+      "lever_class",
+      "lever_arm",
+      "lever_use"
+     ],
+     "pulley": [
+      "pulley_fixed",
+      "pulley_move",
+      "pulley_block"
+     ],
+     "wheel": [
+      "wheel_axle"
+     ],
+     "gear": [
+      "gear_mesh",
+      "gear_ratio",
+      "gear_use"
+     ],
+     "chain": [
+      "chain_drive",
+      "belt_drive",
+      "slip"
+     ],
+     "intermit": [
+      "cam",
+      "ratchet",
+      "geneva",
+      "link",
+      "crank_slider"
+     ],
+     "structure": [
+      "triangle",
+      "friction",
+      "stability"
+     ],
+     "machine": [
+      "work_energy",
+      "simple_machine"
+     ]
+    }
+   },
+   "elec": {
+    "name": "电子与电路",
+    "sections": {
+     "basic": [
+      "voltage",
+      "resistance",
+      "circuit",
+      "component",
+      "conduct"
+     ],
+     "arduino": [
+      "board",
+      "io",
+      "serial"
+     ],
+     "sensor": [
+      "ultrasonic",
+      "potentiometer",
+      "infrared",
+      "other_sensor"
+     ],
+     "motor": [
+      "servo",
+      "dc_motor",
+      "led"
+     ]
+    }
+   },
+   "program": {
+    "name": "Arduino/C编程",
+    "sections": {
+     "lang": [
+      "type",
+      "var",
+      "operator",
+      "func"
+     ],
+     "flow": [
+      "select",
+      "loop",
+      "io_func"
+     ],
+     "concept": [
+      "open_closed",
+      "digital_analog"
+     ]
+    }
+   },
+   "history": {
+    "name": "机器人认知",
+    "sections": {
+     "overview": [
+      "generation",
+      "component",
+      "law",
+      "power"
+     ]
+    }
+   }
+  }
+ },
+ "py": {
+  "name": "Python编程",
+  "chapters": {
+   "syntax": {
+    "name": "语法与变量",
+    "sections": {
+     "var": [
+      "var_name",
+      "var_assign"
+     ],
+     "type": [
+      "num",
+      "str",
+      "bool",
+      "type_conv"
+     ],
+     "print": [
+      "print_func",
+      "format"
+     ]
+    }
+   },
+   "operator": {
+    "name": "运算符",
+    "sections": {
+     "arithmetic": [
+      "add_sub",
+      "div_mod",
+      "power"
+     ],
+     "compare": [
+      "cmp",
+      "logic",
+      "priority"
+     ]
+    }
+   },
+   "flow": {
+    "name": "流程控制",
+    "sections": {
+     "select": [
+      "if_else"
+     ],
+     "loop": [
+      "for_loop",
+      "while_loop",
+      "nest",
+      "break_continue"
+     ],
+     "logic_expr": [
+      "bool_expr",
+      "condition"
+     ]
+    }
+   },
+   "datastruct": {
+    "name": "数据结构",
+    "sections": {
+     "list": [
+      "list_op",
+      "list_index"
+     ],
+     "tuple_dict": [
+      "tuple",
+      "dict"
+     ],
+     "string_op": [
+      "str_method",
+      "str_slice"
+     ]
+    }
+   },
+   "function": {
+    "name": "函数与模块",
+    "sections": {
+     "func_def": [
+      "def",
+      "param",
+      "return",
+      "recursion"
+     ],
+     "module": [
+      "import",
+      "random",
+      "math"
+     ]
+    }
+   },
+   "turtle": {
+    "name": "turtle绘图",
+    "sections": {
+     "move": [
+      "forward",
+      "turn",
+      "goto"
+     ],
+     "pen": [
+      "pen_size",
+      "pen_color",
+      "pen_state"
+     ],
+     "shape": [
+      "circle",
+      "figure"
+     ],
+     "screen": [
+      "bg",
+      "clear",
+      "home"
+     ]
+    }
+   },
+   "algorithm": {
+    "name": "算法思维",
+    "sections": {
+     "basic_algo": [
+      "seq",
+      "math_problem",
+      "sort_search"
+     ]
+    }
+   }
+  }
+ },
+ "c": {
+  "name": "C/C++编程",
+  "chapters": {
+   "syntax": {
+    "name": "基础语法",
+    "sections": {
+     "env": [
+      "compile",
+      "dev"
+     ],
+     "var": [
+      "var_def",
+      "type",
+      "const"
+     ],
+     "io": [
+      "cin_cout",
+      "scanf_printf"
+     ]
+    }
+   },
+   "operator": {
+    "name": "运算符",
+    "sections": {
+     "arithmetic": [
+      "op",
+      "inc_dec",
+      "assign"
+     ],
+     "logic": [
+      "cmp",
+      "logical",
+      "bitwise",
+      "priority"
+     ]
+    }
+   },
+   "flow": {
+    "name": "流程控制",
+    "sections": {
+     "select": [
+      "if_else",
+      "switch"
+     ],
+     "loop": [
+      "for_loop",
+      "while_loop",
+      "do_while",
+      "nest",
+      "break_continue"
+     ]
+    }
+   },
+   "datastruct": {
+    "name": "数据结构",
+    "sections": {
+     "array": [
+      "array_def",
+      "array_index",
+      "array_addr",
+      "multidim"
+     ],
+     "string": [
+      "cstr",
+      "cstring_func"
+     ],
+     "struct": [
+      "struct_def",
+      "class",
+      "member"
+     ]
+    }
+   },
+   "pointer": {
+    "name": "指针与引用",
+    "sections": {
+     "ptr": [
+      "ptr_base",
+      "ptr_op",
+      "ptr_array"
+     ],
+     "ref": [
+      "ref_def",
+      "ref_param"
+     ]
+    }
+   },
+   "function": {
+    "name": "函数",
+    "sections": {
+     "func_def": [
+      "def",
+      "param",
+      "return",
+      "overload"
+     ],
+     "recursion": [
+      "recursion"
+     ],
+     "lib": [
+      "math_func",
+      "other_lib"
+     ]
+    }
+   },
+   "base": {
+    "name": "进制与编码",
+    "sections": {
+     "number": [
+      "bin_hex",
+      "convert"
+     ]
+    }
+   },
+   "algo": {
+    "name": "算法",
+    "sections": {
+     "greedy": [
+      "greedy"
+     ],
+     "dp": [
+      "backpack",
+      "dp"
+     ],
+     "search": [
+      "dfs_bfs",
+      "binary_search"
+     ],
+     "prefix": [
+      "prefix_sum"
+     ]
+    }
+   }
+  }
+ },
+ "cpp": {
+  "name": "C++编程",
+  "chapters": {
+   "syntax": {
+    "name": "基础语法",
+    "sections": {
+     "io": [
+      "cin_cout",
+      "file"
+     ],
+     "var": [
+      "var_def",
+      "type",
+      "type_cast"
+     ]
+    }
+   },
+   "operator": {
+    "name": "运算符",
+    "sections": {
+     "arithmetic": [
+      "op",
+      "self",
+      "assign"
+     ],
+     "logic": [
+      "cmp",
+      "logic_op",
+      "bitwise"
+     ]
+    }
+   },
+   "flow": {
+    "name": "流程控制",
+    "sections": {
+     "select": [
+      "if_else",
+      "switch"
+     ],
+     "loop": [
+      "for_loop",
+      "while_loop",
+      "nest",
+      "break_continue"
+     ]
+    }
+   },
+   "datastruct": {
+    "name": "数据结构",
+    "sections": {
+     "array": [
+      "array_def",
+      "array_index",
+      "array_addr",
+      "multidim"
+     ],
+     "string": [
+      "cstring",
+      "str_func"
+     ]
+    }
+   },
+   "function": {
+    "name": "函数",
+    "sections": {
+     "func_def": [
+      "def",
+      "param",
+      "return"
+     ],
+     "recursion": [
+      "recursion"
+     ],
+     "overload": [
+      "overload"
+     ]
+    }
+   },
+   "algo": {
+    "name": "算法与编程题",
+    "sections": {
+     "basic": [
+      "search",
+      "simulation",
+      "math_algo",
+      "sort"
+     ]
+    }
+   }
+  }
+ },
+ "gx": {
+  "name": "Scratch图形化编程",
+  "chapters": {
+   "motion": {
+    "name": "运动",
+    "sections": {
+     "move": [
+      "move_step",
+      "move_pos",
+      "turn"
+     ],
+     "coord": [
+      "xy",
+      "direction"
+     ]
+    }
+   },
+   "looks": {
+    "name": "外观",
+    "sections": {
+     "costume": [
+      "costume",
+      "next_costume"
+     ],
+     "bg": [
+      "background",
+      "add_bg"
+     ],
+     "size": [
+      "size",
+      "show_hide",
+      "layer"
+     ]
+    }
+   },
+   "sound": {
+    "name": "声音",
+    "sections": {
+     "play": [
+      "play_sound",
+      "volume",
+      "stop_sound"
+     ],
+     "record": [
+      "record"
+     ]
+    }
+   },
+   "event": {
+    "name": "事件",
+    "sections": {
+     "trigger": [
+      "green_flag",
+      "key",
+      "click",
+      "broadcast"
+     ]
+    }
+   },
+   "control": {
+    "name": "控制",
+    "sections": {
+     "loop": [
+      "repeat",
+      "forever"
+     ],
+     "select": [
+      "if_else",
+      "wait"
+     ]
+    }
+   },
+   "logic": {
+    "name": "逻辑与运算",
+    "sections": {
+     "math": [
+      "compare",
+      "arithmetic_op",
+      "find_rule"
+     ],
+     "bool": [
+      "condition"
+     ]
+    }
+   },
+   "var": {
+    "name": "变量",
+    "sections": {
+     "variable": [
+      "var_use",
+      "var_set"
+     ]
+    }
+   },
+   "interface": {
+    "name": "界面与操作",
+    "sections": {
+     "area": [
+      "stage",
+      "role",
+      "script",
+      "costume_area"
+     ],
+     "operate": [
+      "add_role",
+      "sprite"
+     ]
+    }
+   }
+  }
+ }
+}

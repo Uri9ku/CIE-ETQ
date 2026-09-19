@@ -1,0 +1,1738 @@
+{
+ "robot.mech.lever.lever_class": {
+  "subject": "robot",
+  "subject_name": "机器人技术",
+  "chapter": "mech",
+  "chapter_name": "机械结构与传动",
+  "section": "lever",
+  "leaf": "lever_class"
+ },
+ "robot.mech.lever.lever_arm": {
+  "subject": "robot",
+  "subject_name": "机器人技术",
+  "chapter": "mech",
+  "chapter_name": "机械结构与传动",
+  "section": "lever",
+  "leaf": "lever_arm"
+ },
+ "robot.mech.lever.lever_use": {
+  "subject": "robot",
+  "subject_name": "机器人技术",
+  "chapter": "mech",
+  "chapter_name": "机械结构与传动",
+  "section": "lever",
+  "leaf": "lever_use"
+ },
+ "robot.mech.pulley.pulley_fixed": {
+  "subject": "robot",
+  "subject_name": "机器人技术",
+  "chapter": "mech",
+  "chapter_name": "机械结构与传动",
+  "section": "pulley",
+  "leaf": "pulley_fixed"
+ },
+ "robot.mech.pulley.pulley_move": {
+  "subject": "robot",
+  "subject_name": "机器人技术",
+  "chapter": "mech",
+  "chapter_name": "机械结构与传动",
+  "section": "pulley",
+  "leaf": "pulley_move"
+ },
+ "robot.mech.pulley.pulley_block": {
+  "subject": "robot",
+  "subject_name": "机器人技术",
+  "chapter": "mech",
+  "chapter_name": "机械结构与传动",
+  "section": "pulley",
+  "leaf": "pulley_block"
+ },
+ "robot.mech.wheel.wheel_axle": {
+  "subject": "robot",
+  "subject_name": "机器人技术",
+  "chapter": "mech",
+  "chapter_name": "机械结构与传动",
+  "section": "wheel",
+  "leaf": "wheel_axle"
+ },
+ "robot.mech.gear.gear_mesh": {
+  "subject": "robot",
+  "subject_name": "机器人技术",
+  "chapter": "mech",
+  "chapter_name": "机械结构与传动",
+  "section": "gear",
+  "leaf": "gear_mesh"
+ },
+ "robot.mech.gear.gear_ratio": {
+  "subject": "robot",
+  "subject_name": "机器人技术",
+  "chapter": "mech",
+  "chapter_name": "机械结构与传动",
+  "section": "gear",
+  "leaf": "gear_ratio"
+ },
+ "robot.mech.gear.gear_use": {
+  "subject": "robot",
+  "subject_name": "机器人技术",
+  "chapter": "mech",
+  "chapter_name": "机械结构与传动",
+  "section": "gear",
+  "leaf": "gear_use"
+ },
+ "robot.mech.chain.chain_drive": {
+  "subject": "robot",
+  "subject_name": "机器人技术",
+  "chapter": "mech",
+  "chapter_name": "机械结构与传动",
+  "section": "chain",
+  "leaf": "chain_drive"
+ },
+ "robot.mech.chain.belt_drive": {
+  "subject": "robot",
+  "subject_name": "机器人技术",
+  "chapter": "mech",
+  "chapter_name": "机械结构与传动",
+  "section": "chain",
+  "leaf": "belt_drive"
+ },
+ "robot.mech.chain.slip": {
+  "subject": "robot",
+  "subject_name": "机器人技术",
+  "chapter": "mech",
+  "chapter_name": "机械结构与传动",
+  "section": "chain",
+  "leaf": "slip"
+ },
+ "robot.mech.intermit.cam": {
+  "subject": "robot",
+  "subject_name": "机器人技术",
+  "chapter": "mech",
+  "chapter_name": "机械结构与传动",
+  "section": "intermit",
+  "leaf": "cam"
+ },
+ "robot.mech.intermit.ratchet": {
+  "subject": "robot",
+  "subject_name": "机器人技术",
+  "chapter": "mech",
+  "chapter_name": "机械结构与传动",
+  "section": "intermit",
+  "leaf": "ratchet"
+ },
+ "robot.mech.intermit.geneva": {
+  "subject": "robot",
+  "subject_name": "机器人技术",
+  "chapter": "mech",
+  "chapter_name": "机械结构与传动",
+  "section": "intermit",
+  "leaf": "geneva"
+ },
+ "robot.mech.intermit.link": {
+  "subject": "robot",
+  "subject_name": "机器人技术",
+  "chapter": "mech",
+  "chapter_name": "机械结构与传动",
+  "section": "intermit",
+  "leaf": "link"
+ },
+ "robot.mech.intermit.crank_slider": {
+  "subject": "robot",
+  "subject_name": "机器人技术",
+  "chapter": "mech",
+  "chapter_name": "机械结构与传动",
+  "section": "intermit",
+  "leaf": "crank_slider"
+ },
+ "robot.mech.structure.triangle": {
+  "subject": "robot",
+  "subject_name": "机器人技术",
+  "chapter": "mech",
+  "chapter_name": "机械结构与传动",
+  "section": "structure",
+  "leaf": "triangle"
+ },
+ "robot.mech.structure.friction": {
+  "subject": "robot",
+  "subject_name": "机器人技术",
+  "chapter": "mech",
+  "chapter_name": "机械结构与传动",
+  "section": "structure",
+  "leaf": "friction"
+ },
+ "robot.mech.structure.stability": {
+  "subject": "robot",
+  "subject_name": "机器人技术",
+  "chapter": "mech",
+  "chapter_name": "机械结构与传动",
+  "section": "structure",
+  "leaf": "stability"
+ },
+ "robot.mech.machine.work_energy": {
+  "subject": "robot",
+  "subject_name": "机器人技术",
+  "chapter": "mech",
+  "chapter_name": "机械结构与传动",
+  "section": "machine",
+  "leaf": "work_energy"
+ },
+ "robot.mech.machine.simple_machine": {
+  "subject": "robot",
+  "subject_name": "机器人技术",
+  "chapter": "mech",
+  "chapter_name": "机械结构与传动",
+  "section": "machine",
+  "leaf": "simple_machine"
+ },
+ "robot.elec.basic.voltage": {
+  "subject": "robot",
+  "subject_name": "机器人技术",
+  "chapter": "elec",
+  "chapter_name": "电子与电路",
+  "section": "basic",
+  "leaf": "voltage"
+ },
+ "robot.elec.basic.resistance": {
+  "subject": "robot",
+  "subject_name": "机器人技术",
+  "chapter": "elec",
+  "chapter_name": "电子与电路",
+  "section": "basic",
+  "leaf": "resistance"
+ },
+ "robot.elec.basic.circuit": {
+  "subject": "robot",
+  "subject_name": "机器人技术",
+  "chapter": "elec",
+  "chapter_name": "电子与电路",
+  "section": "basic",
+  "leaf": "circuit"
+ },
+ "robot.elec.basic.component": {
+  "subject": "robot",
+  "subject_name": "机器人技术",
+  "chapter": "elec",
+  "chapter_name": "电子与电路",
+  "section": "basic",
+  "leaf": "component"
+ },
+ "robot.elec.basic.conduct": {
+  "subject": "robot",
+  "subject_name": "机器人技术",
+  "chapter": "elec",
+  "chapter_name": "电子与电路",
+  "section": "basic",
+  "leaf": "conduct"
+ },
+ "robot.elec.arduino.board": {
+  "subject": "robot",
+  "subject_name": "机器人技术",
+  "chapter": "elec",
+  "chapter_name": "电子与电路",
+  "section": "arduino",
+  "leaf": "board"
+ },
+ "robot.elec.arduino.io": {
+  "subject": "robot",
+  "subject_name": "机器人技术",
+  "chapter": "elec",
+  "chapter_name": "电子与电路",
+  "section": "arduino",
+  "leaf": "io"
+ },
+ "robot.elec.arduino.serial": {
+  "subject": "robot",
+  "subject_name": "机器人技术",
+  "chapter": "elec",
+  "chapter_name": "电子与电路",
+  "section": "arduino",
+  "leaf": "serial"
+ },
+ "robot.elec.sensor.ultrasonic": {
+  "subject": "robot",
+  "subject_name": "机器人技术",
+  "chapter": "elec",
+  "chapter_name": "电子与电路",
+  "section": "sensor",
+  "leaf": "ultrasonic"
+ },
+ "robot.elec.sensor.potentiometer": {
+  "subject": "robot",
+  "subject_name": "机器人技术",
+  "chapter": "elec",
+  "chapter_name": "电子与电路",
+  "section": "sensor",
+  "leaf": "potentiometer"
+ },
+ "robot.elec.sensor.infrared": {
+  "subject": "robot",
+  "subject_name": "机器人技术",
+  "chapter": "elec",
+  "chapter_name": "电子与电路",
+  "section": "sensor",
+  "leaf": "infrared"
+ },
+ "robot.elec.sensor.other_sensor": {
+  "subject": "robot",
+  "subject_name": "机器人技术",
+  "chapter": "elec",
+  "chapter_name": "电子与电路",
+  "section": "sensor",
+  "leaf": "other_sensor"
+ },
+ "robot.elec.motor.servo": {
+  "subject": "robot",
+  "subject_name": "机器人技术",
+  "chapter": "elec",
+  "chapter_name": "电子与电路",
+  "section": "motor",
+  "leaf": "servo"
+ },
+ "robot.elec.motor.dc_motor": {
+  "subject": "robot",
+  "subject_name": "机器人技术",
+  "chapter": "elec",
+  "chapter_name": "电子与电路",
+  "section": "motor",
+  "leaf": "dc_motor"
+ },
+ "robot.elec.motor.led": {
+  "subject": "robot",
+  "subject_name": "机器人技术",
+  "chapter": "elec",
+  "chapter_name": "电子与电路",
+  "section": "motor",
+  "leaf": "led"
+ },
+ "robot.program.lang.type": {
+  "subject": "robot",
+  "subject_name": "机器人技术",
+  "chapter": "program",
+  "chapter_name": "Arduino/C编程",
+  "section": "lang",
+  "leaf": "type"
+ },
+ "robot.program.lang.var": {
+  "subject": "robot",
+  "subject_name": "机器人技术",
+  "chapter": "program",
+  "chapter_name": "Arduino/C编程",
+  "section": "lang",
+  "leaf": "var"
+ },
+ "robot.program.lang.operator": {
+  "subject": "robot",
+  "subject_name": "机器人技术",
+  "chapter": "program",
+  "chapter_name": "Arduino/C编程",
+  "section": "lang",
+  "leaf": "operator"
+ },
+ "robot.program.lang.func": {
+  "subject": "robot",
+  "subject_name": "机器人技术",
+  "chapter": "program",
+  "chapter_name": "Arduino/C编程",
+  "section": "lang",
+  "leaf": "func"
+ },
+ "robot.program.flow.select": {
+  "subject": "robot",
+  "subject_name": "机器人技术",
+  "chapter": "program",
+  "chapter_name": "Arduino/C编程",
+  "section": "flow",
+  "leaf": "select"
+ },
+ "robot.program.flow.loop": {
+  "subject": "robot",
+  "subject_name": "机器人技术",
+  "chapter": "program",
+  "chapter_name": "Arduino/C编程",
+  "section": "flow",
+  "leaf": "loop"
+ },
+ "robot.program.flow.io_func": {
+  "subject": "robot",
+  "subject_name": "机器人技术",
+  "chapter": "program",
+  "chapter_name": "Arduino/C编程",
+  "section": "flow",
+  "leaf": "io_func"
+ },
+ "robot.program.concept.open_closed": {
+  "subject": "robot",
+  "subject_name": "机器人技术",
+  "chapter": "program",
+  "chapter_name": "Arduino/C编程",
+  "section": "concept",
+  "leaf": "open_closed"
+ },
+ "robot.program.concept.digital_analog": {
+  "subject": "robot",
+  "subject_name": "机器人技术",
+  "chapter": "program",
+  "chapter_name": "Arduino/C编程",
+  "section": "concept",
+  "leaf": "digital_analog"
+ },
+ "robot.history.overview.generation": {
+  "subject": "robot",
+  "subject_name": "机器人技术",
+  "chapter": "history",
+  "chapter_name": "机器人认知",
+  "section": "overview",
+  "leaf": "generation"
+ },
+ "robot.history.overview.component": {
+  "subject": "robot",
+  "subject_name": "机器人技术",
+  "chapter": "history",
+  "chapter_name": "机器人认知",
+  "section": "overview",
+  "leaf": "component"
+ },
+ "robot.history.overview.law": {
+  "subject": "robot",
+  "subject_name": "机器人技术",
+  "chapter": "history",
+  "chapter_name": "机器人认知",
+  "section": "overview",
+  "leaf": "law"
+ },
+ "robot.history.overview.power": {
+  "subject": "robot",
+  "subject_name": "机器人技术",
+  "chapter": "history",
+  "chapter_name": "机器人认知",
+  "section": "overview",
+  "leaf": "power"
+ },
+ "py.syntax.var.var_name": {
+  "subject": "py",
+  "subject_name": "Python编程",
+  "chapter": "syntax",
+  "chapter_name": "语法与变量",
+  "section": "var",
+  "leaf": "var_name"
+ },
+ "py.syntax.var.var_assign": {
+  "subject": "py",
+  "subject_name": "Python编程",
+  "chapter": "syntax",
+  "chapter_name": "语法与变量",
+  "section": "var",
+  "leaf": "var_assign"
+ },
+ "py.syntax.type.num": {
+  "subject": "py",
+  "subject_name": "Python编程",
+  "chapter": "syntax",
+  "chapter_name": "语法与变量",
+  "section": "type",
+  "leaf": "num"
+ },
+ "py.syntax.type.str": {
+  "subject": "py",
+  "subject_name": "Python编程",
+  "chapter": "syntax",
+  "chapter_name": "语法与变量",
+  "section": "type",
+  "leaf": "str"
+ },
+ "py.syntax.type.bool": {
+  "subject": "py",
+  "subject_name": "Python编程",
+  "chapter": "syntax",
+  "chapter_name": "语法与变量",
+  "section": "type",
+  "leaf": "bool"
+ },
+ "py.syntax.type.type_conv": {
+  "subject": "py",
+  "subject_name": "Python编程",
+  "chapter": "syntax",
+  "chapter_name": "语法与变量",
+  "section": "type",
+  "leaf": "type_conv"
+ },
+ "py.syntax.print.print_func": {
+  "subject": "py",
+  "subject_name": "Python编程",
+  "chapter": "syntax",
+  "chapter_name": "语法与变量",
+  "section": "print",
+  "leaf": "print_func"
+ },
+ "py.syntax.print.format": {
+  "subject": "py",
+  "subject_name": "Python编程",
+  "chapter": "syntax",
+  "chapter_name": "语法与变量",
+  "section": "print",
+  "leaf": "format"
+ },
+ "py.operator.arithmetic.add_sub": {
+  "subject": "py",
+  "subject_name": "Python编程",
+  "chapter": "operator",
+  "chapter_name": "运算符",
+  "section": "arithmetic",
+  "leaf": "add_sub"
+ },
+ "py.operator.arithmetic.div_mod": {
+  "subject": "py",
+  "subject_name": "Python编程",
+  "chapter": "operator",
+  "chapter_name": "运算符",
+  "section": "arithmetic",
+  "leaf": "div_mod"
+ },
+ "py.operator.arithmetic.power": {
+  "subject": "py",
+  "subject_name": "Python编程",
+  "chapter": "operator",
+  "chapter_name": "运算符",
+  "section": "arithmetic",
+  "leaf": "power"
+ },
+ "py.operator.compare.cmp": {
+  "subject": "py",
+  "subject_name": "Python编程",
+  "chapter": "operator",
+  "chapter_name": "运算符",
+  "section": "compare",
+  "leaf": "cmp"
+ },
+ "py.operator.compare.logic": {
+  "subject": "py",
+  "subject_name": "Python编程",
+  "chapter": "operator",
+  "chapter_name": "运算符",
+  "section": "compare",
+  "leaf": "logic"
+ },
+ "py.operator.compare.priority": {
+  "subject": "py",
+  "subject_name": "Python编程",
+  "chapter": "operator",
+  "chapter_name": "运算符",
+  "section": "compare",
+  "leaf": "priority"
+ },
+ "py.flow.select.if_else": {
+  "subject": "py",
+  "subject_name": "Python编程",
+  "chapter": "flow",
+  "chapter_name": "流程控制",
+  "section": "select",
+  "leaf": "if_else"
+ },
+ "py.flow.loop.for_loop": {
+  "subject": "py",
+  "subject_name": "Python编程",
+  "chapter": "flow",
+  "chapter_name": "流程控制",
+  "section": "loop",
+  "leaf": "for_loop"
+ },
+ "py.flow.loop.while_loop": {
+  "subject": "py",
+  "subject_name": "Python编程",
+  "chapter": "flow",
+  "chapter_name": "流程控制",
+  "section": "loop",
+  "leaf": "while_loop"
+ },
+ "py.flow.loop.nest": {
+  "subject": "py",
+  "subject_name": "Python编程",
+  "chapter": "flow",
+  "chapter_name": "流程控制",
+  "section": "loop",
+  "leaf": "nest"
+ },
+ "py.flow.loop.break_continue": {
+  "subject": "py",
+  "subject_name": "Python编程",
+  "chapter": "flow",
+  "chapter_name": "流程控制",
+  "section": "loop",
+  "leaf": "break_continue"
+ },
+ "py.flow.logic_expr.bool_expr": {
+  "subject": "py",
+  "subject_name": "Python编程",
+  "chapter": "flow",
+  "chapter_name": "流程控制",
+  "section": "logic_expr",
+  "leaf": "bool_expr"
+ },
+ "py.flow.logic_expr.condition": {
+  "subject": "py",
+  "subject_name": "Python编程",
+  "chapter": "flow",
+  "chapter_name": "流程控制",
+  "section": "logic_expr",
+  "leaf": "condition"
+ },
+ "py.datastruct.list.list_op": {
+  "subject": "py",
+  "subject_name": "Python编程",
+  "chapter": "datastruct",
+  "chapter_name": "数据结构",
+  "section": "list",
+  "leaf": "list_op"
+ },
+ "py.datastruct.list.list_index": {
+  "subject": "py",
+  "subject_name": "Python编程",
+  "chapter": "datastruct",
+  "chapter_name": "数据结构",
+  "section": "list",
+  "leaf": "list_index"
+ },
+ "py.datastruct.tuple_dict.tuple": {
+  "subject": "py",
+  "subject_name": "Python编程",
+  "chapter": "datastruct",
+  "chapter_name": "数据结构",
+  "section": "tuple_dict",
+  "leaf": "tuple"
+ },
+ "py.datastruct.tuple_dict.dict": {
+  "subject": "py",
+  "subject_name": "Python编程",
+  "chapter": "datastruct",
+  "chapter_name": "数据结构",
+  "section": "tuple_dict",
+  "leaf": "dict"
+ },
+ "py.datastruct.string_op.str_method": {
+  "subject": "py",
+  "subject_name": "Python编程",
+  "chapter": "datastruct",
+  "chapter_name": "数据结构",
+  "section": "string_op",
+  "leaf": "str_method"
+ },
+ "py.datastruct.string_op.str_slice": {
+  "subject": "py",
+  "subject_name": "Python编程",
+  "chapter": "datastruct",
+  "chapter_name": "数据结构",
+  "section": "string_op",
+  "leaf": "str_slice"
+ },
+ "py.function.func_def.def": {
+  "subject": "py",
+  "subject_name": "Python编程",
+  "chapter": "function",
+  "chapter_name": "函数与模块",
+  "section": "func_def",
+  "leaf": "def"
+ },
+ "py.function.func_def.param": {
+  "subject": "py",
+  "subject_name": "Python编程",
+  "chapter": "function",
+  "chapter_name": "函数与模块",
+  "section": "func_def",
+  "leaf": "param"
+ },
+ "py.function.func_def.return": {
+  "subject": "py",
+  "subject_name": "Python编程",
+  "chapter": "function",
+  "chapter_name": "函数与模块",
+  "section": "func_def",
+  "leaf": "return"
+ },
+ "py.function.func_def.recursion": {
+  "subject": "py",
+  "subject_name": "Python编程",
+  "chapter": "function",
+  "chapter_name": "函数与模块",
+  "section": "func_def",
+  "leaf": "recursion"
+ },
+ "py.function.module.import": {
+  "subject": "py",
+  "subject_name": "Python编程",
+  "chapter": "function",
+  "chapter_name": "函数与模块",
+  "section": "module",
+  "leaf": "import"
+ },
+ "py.function.module.random": {
+  "subject": "py",
+  "subject_name": "Python编程",
+  "chapter": "function",
+  "chapter_name": "函数与模块",
+  "section": "module",
+  "leaf": "random"
+ },
+ "py.function.module.math": {
+  "subject": "py",
+  "subject_name": "Python编程",
+  "chapter": "function",
+  "chapter_name": "函数与模块",
+  "section": "module",
+  "leaf": "math"
+ },
+ "py.turtle.move.forward": {
+  "subject": "py",
+  "subject_name": "Python编程",
+  "chapter": "turtle",
+  "chapter_name": "turtle绘图",
+  "section": "move",
+  "leaf": "forward"
+ },
+ "py.turtle.move.turn": {
+  "subject": "py",
+  "subject_name": "Python编程",
+  "chapter": "turtle",
+  "chapter_name": "turtle绘图",
+  "section": "move",
+  "leaf": "turn"
+ },
+ "py.turtle.move.goto": {
+  "subject": "py",
+  "subject_name": "Python编程",
+  "chapter": "turtle",
+  "chapter_name": "turtle绘图",
+  "section": "move",
+  "leaf": "goto"
+ },
+ "py.turtle.pen.pen_size": {
+  "subject": "py",
+  "subject_name": "Python编程",
+  "chapter": "turtle",
+  "chapter_name": "turtle绘图",
+  "section": "pen",
+  "leaf": "pen_size"
+ },
+ "py.turtle.pen.pen_color": {
+  "subject": "py",
+  "subject_name": "Python编程",
+  "chapter": "turtle",
+  "chapter_name": "turtle绘图",
+  "section": "pen",
+  "leaf": "pen_color"
+ },
+ "py.turtle.pen.pen_state": {
+  "subject": "py",
+  "subject_name": "Python编程",
+  "chapter": "turtle",
+  "chapter_name": "turtle绘图",
+  "section": "pen",
+  "leaf": "pen_state"
+ },
+ "py.turtle.shape.circle": {
+  "subject": "py",
+  "subject_name": "Python编程",
+  "chapter": "turtle",
+  "chapter_name": "turtle绘图",
+  "section": "shape",
+  "leaf": "circle"
+ },
+ "py.turtle.shape.figure": {
+  "subject": "py",
+  "subject_name": "Python编程",
+  "chapter": "turtle",
+  "chapter_name": "turtle绘图",
+  "section": "shape",
+  "leaf": "figure"
+ },
+ "py.turtle.screen.bg": {
+  "subject": "py",
+  "subject_name": "Python编程",
+  "chapter": "turtle",
+  "chapter_name": "turtle绘图",
+  "section": "screen",
+  "leaf": "bg"
+ },
+ "py.turtle.screen.clear": {
+  "subject": "py",
+  "subject_name": "Python编程",
+  "chapter": "turtle",
+  "chapter_name": "turtle绘图",
+  "section": "screen",
+  "leaf": "clear"
+ },
+ "py.turtle.screen.home": {
+  "subject": "py",
+  "subject_name": "Python编程",
+  "chapter": "turtle",
+  "chapter_name": "turtle绘图",
+  "section": "screen",
+  "leaf": "home"
+ },
+ "py.algorithm.basic_algo.seq": {
+  "subject": "py",
+  "subject_name": "Python编程",
+  "chapter": "algorithm",
+  "chapter_name": "算法思维",
+  "section": "basic_algo",
+  "leaf": "seq"
+ },
+ "py.algorithm.basic_algo.math_problem": {
+  "subject": "py",
+  "subject_name": "Python编程",
+  "chapter": "algorithm",
+  "chapter_name": "算法思维",
+  "section": "basic_algo",
+  "leaf": "math_problem"
+ },
+ "py.algorithm.basic_algo.sort_search": {
+  "subject": "py",
+  "subject_name": "Python编程",
+  "chapter": "algorithm",
+  "chapter_name": "算法思维",
+  "section": "basic_algo",
+  "leaf": "sort_search"
+ },
+ "c.syntax.env.compile": {
+  "subject": "c",
+  "subject_name": "C/C++编程",
+  "chapter": "syntax",
+  "chapter_name": "基础语法",
+  "section": "env",
+  "leaf": "compile"
+ },
+ "c.syntax.env.dev": {
+  "subject": "c",
+  "subject_name": "C/C++编程",
+  "chapter": "syntax",
+  "chapter_name": "基础语法",
+  "section": "env",
+  "leaf": "dev"
+ },
+ "c.syntax.var.var_def": {
+  "subject": "c",
+  "subject_name": "C/C++编程",
+  "chapter": "syntax",
+  "chapter_name": "基础语法",
+  "section": "var",
+  "leaf": "var_def"
+ },
+ "c.syntax.var.type": {
+  "subject": "c",
+  "subject_name": "C/C++编程",
+  "chapter": "syntax",
+  "chapter_name": "基础语法",
+  "section": "var",
+  "leaf": "type"
+ },
+ "c.syntax.var.const": {
+  "subject": "c",
+  "subject_name": "C/C++编程",
+  "chapter": "syntax",
+  "chapter_name": "基础语法",
+  "section": "var",
+  "leaf": "const"
+ },
+ "c.syntax.io.cin_cout": {
+  "subject": "c",
+  "subject_name": "C/C++编程",
+  "chapter": "syntax",
+  "chapter_name": "基础语法",
+  "section": "io",
+  "leaf": "cin_cout"
+ },
+ "c.syntax.io.scanf_printf": {
+  "subject": "c",
+  "subject_name": "C/C++编程",
+  "chapter": "syntax",
+  "chapter_name": "基础语法",
+  "section": "io",
+  "leaf": "scanf_printf"
+ },
+ "c.operator.arithmetic.op": {
+  "subject": "c",
+  "subject_name": "C/C++编程",
+  "chapter": "operator",
+  "chapter_name": "运算符",
+  "section": "arithmetic",
+  "leaf": "op"
+ },
+ "c.operator.arithmetic.inc_dec": {
+  "subject": "c",
+  "subject_name": "C/C++编程",
+  "chapter": "operator",
+  "chapter_name": "运算符",
+  "section": "arithmetic",
+  "leaf": "inc_dec"
+ },
+ "c.operator.arithmetic.assign": {
+  "subject": "c",
+  "subject_name": "C/C++编程",
+  "chapter": "operator",
+  "chapter_name": "运算符",
+  "section": "arithmetic",
+  "leaf": "assign"
+ },
+ "c.operator.logic.cmp": {
+  "subject": "c",
+  "subject_name": "C/C++编程",
+  "chapter": "operator",
+  "chapter_name": "运算符",
+  "section": "logic",
+  "leaf": "cmp"
+ },
+ "c.operator.logic.logical": {
+  "subject": "c",
+  "subject_name": "C/C++编程",
+  "chapter": "operator",
+  "chapter_name": "运算符",
+  "section": "logic",
+  "leaf": "logical"
+ },
+ "c.operator.logic.bitwise": {
+  "subject": "c",
+  "subject_name": "C/C++编程",
+  "chapter": "operator",
+  "chapter_name": "运算符",
+  "section": "logic",
+  "leaf": "bitwise"
+ },
+ "c.operator.logic.priority": {
+  "subject": "c",
+  "subject_name": "C/C++编程",
+  "chapter": "operator",
+  "chapter_name": "运算符",
+  "section": "logic",
+  "leaf": "priority"
+ },
+ "c.flow.select.if_else": {
+  "subject": "c",
+  "subject_name": "C/C++编程",
+  "chapter": "flow",
+  "chapter_name": "流程控制",
+  "section": "select",
+  "leaf": "if_else"
+ },
+ "c.flow.select.switch": {
+  "subject": "c",
+  "subject_name": "C/C++编程",
+  "chapter": "flow",
+  "chapter_name": "流程控制",
+  "section": "select",
+  "leaf": "switch"
+ },
+ "c.flow.loop.for_loop": {
+  "subject": "c",
+  "subject_name": "C/C++编程",
+  "chapter": "flow",
+  "chapter_name": "流程控制",
+  "section": "loop",
+  "leaf": "for_loop"
+ },
+ "c.flow.loop.while_loop": {
+  "subject": "c",
+  "subject_name": "C/C++编程",
+  "chapter": "flow",
+  "chapter_name": "流程控制",
+  "section": "loop",
+  "leaf": "while_loop"
+ },
+ "c.flow.loop.do_while": {
+  "subject": "c",
+  "subject_name": "C/C++编程",
+  "chapter": "flow",
+  "chapter_name": "流程控制",
+  "section": "loop",
+  "leaf": "do_while"
+ },
+ "c.flow.loop.nest": {
+  "subject": "c",
+  "subject_name": "C/C++编程",
+  "chapter": "flow",
+  "chapter_name": "流程控制",
+  "section": "loop",
+  "leaf": "nest"
+ },
+ "c.flow.loop.break_continue": {
+  "subject": "c",
+  "subject_name": "C/C++编程",
+  "chapter": "flow",
+  "chapter_name": "流程控制",
+  "section": "loop",
+  "leaf": "break_continue"
+ },
+ "c.datastruct.array.array_def": {
+  "subject": "c",
+  "subject_name": "C/C++编程",
+  "chapter": "datastruct",
+  "chapter_name": "数据结构",
+  "section": "array",
+  "leaf": "array_def"
+ },
+ "c.datastruct.array.array_index": {
+  "subject": "c",
+  "subject_name": "C/C++编程",
+  "chapter": "datastruct",
+  "chapter_name": "数据结构",
+  "section": "array",
+  "leaf": "array_index"
+ },
+ "c.datastruct.array.array_addr": {
+  "subject": "c",
+  "subject_name": "C/C++编程",
+  "chapter": "datastruct",
+  "chapter_name": "数据结构",
+  "section": "array",
+  "leaf": "array_addr"
+ },
+ "c.datastruct.array.multidim": {
+  "subject": "c",
+  "subject_name": "C/C++编程",
+  "chapter": "datastruct",
+  "chapter_name": "数据结构",
+  "section": "array",
+  "leaf": "multidim"
+ },
+ "c.datastruct.string.cstr": {
+  "subject": "c",
+  "subject_name": "C/C++编程",
+  "chapter": "datastruct",
+  "chapter_name": "数据结构",
+  "section": "string",
+  "leaf": "cstr"
+ },
+ "c.datastruct.string.cstring_func": {
+  "subject": "c",
+  "subject_name": "C/C++编程",
+  "chapter": "datastruct",
+  "chapter_name": "数据结构",
+  "section": "string",
+  "leaf": "cstring_func"
+ },
+ "c.datastruct.struct.struct_def": {
+  "subject": "c",
+  "subject_name": "C/C++编程",
+  "chapter": "datastruct",
+  "chapter_name": "数据结构",
+  "section": "struct",
+  "leaf": "struct_def"
+ },
+ "c.datastruct.struct.class": {
+  "subject": "c",
+  "subject_name": "C/C++编程",
+  "chapter": "datastruct",
+  "chapter_name": "数据结构",
+  "section": "struct",
+  "leaf": "class"
+ },
+ "c.datastruct.struct.member": {
+  "subject": "c",
+  "subject_name": "C/C++编程",
+  "chapter": "datastruct",
+  "chapter_name": "数据结构",
+  "section": "struct",
+  "leaf": "member"
+ },
+ "c.pointer.ptr.ptr_base": {
+  "subject": "c",
+  "subject_name": "C/C++编程",
+  "chapter": "pointer",
+  "chapter_name": "指针与引用",
+  "section": "ptr",
+  "leaf": "ptr_base"
+ },
+ "c.pointer.ptr.ptr_op": {
+  "subject": "c",
+  "subject_name": "C/C++编程",
+  "chapter": "pointer",
+  "chapter_name": "指针与引用",
+  "section": "ptr",
+  "leaf": "ptr_op"
+ },
+ "c.pointer.ptr.ptr_array": {
+  "subject": "c",
+  "subject_name": "C/C++编程",
+  "chapter": "pointer",
+  "chapter_name": "指针与引用",
+  "section": "ptr",
+  "leaf": "ptr_array"
+ },
+ "c.pointer.ref.ref_def": {
+  "subject": "c",
+  "subject_name": "C/C++编程",
+  "chapter": "pointer",
+  "chapter_name": "指针与引用",
+  "section": "ref",
+  "leaf": "ref_def"
+ },
+ "c.pointer.ref.ref_param": {
+  "subject": "c",
+  "subject_name": "C/C++编程",
+  "chapter": "pointer",
+  "chapter_name": "指针与引用",
+  "section": "ref",
+  "leaf": "ref_param"
+ },
+ "c.function.func_def.def": {
+  "subject": "c",
+  "subject_name": "C/C++编程",
+  "chapter": "function",
+  "chapter_name": "函数",
+  "section": "func_def",
+  "leaf": "def"
+ },
+ "c.function.func_def.param": {
+  "subject": "c",
+  "subject_name": "C/C++编程",
+  "chapter": "function",
+  "chapter_name": "函数",
+  "section": "func_def",
+  "leaf": "param"
+ },
+ "c.function.func_def.return": {
+  "subject": "c",
+  "subject_name": "C/C++编程",
+  "chapter": "function",
+  "chapter_name": "函数",
+  "section": "func_def",
+  "leaf": "return"
+ },
+ "c.function.func_def.overload": {
+  "subject": "c",
+  "subject_name": "C/C++编程",
+  "chapter": "function",
+  "chapter_name": "函数",
+  "section": "func_def",
+  "leaf": "overload"
+ },
+ "c.function.recursion.recursion": {
+  "subject": "c",
+  "subject_name": "C/C++编程",
+  "chapter": "function",
+  "chapter_name": "函数",
+  "section": "recursion",
+  "leaf": "recursion"
+ },
+ "c.function.lib.math_func": {
+  "subject": "c",
+  "subject_name": "C/C++编程",
+  "chapter": "function",
+  "chapter_name": "函数",
+  "section": "lib",
+  "leaf": "math_func"
+ },
+ "c.function.lib.other_lib": {
+  "subject": "c",
+  "subject_name": "C/C++编程",
+  "chapter": "function",
+  "chapter_name": "函数",
+  "section": "lib",
+  "leaf": "other_lib"
+ },
+ "c.base.number.bin_hex": {
+  "subject": "c",
+  "subject_name": "C/C++编程",
+  "chapter": "base",
+  "chapter_name": "进制与编码",
+  "section": "number",
+  "leaf": "bin_hex"
+ },
+ "c.base.number.convert": {
+  "subject": "c",
+  "subject_name": "C/C++编程",
+  "chapter": "base",
+  "chapter_name": "进制与编码",
+  "section": "number",
+  "leaf": "convert"
+ },
+ "c.algo.greedy.greedy": {
+  "subject": "c",
+  "subject_name": "C/C++编程",
+  "chapter": "algo",
+  "chapter_name": "算法",
+  "section": "greedy",
+  "leaf": "greedy"
+ },
+ "c.algo.dp.backpack": {
+  "subject": "c",
+  "subject_name": "C/C++编程",
+  "chapter": "algo",
+  "chapter_name": "算法",
+  "section": "dp",
+  "leaf": "backpack"
+ },
+ "c.algo.dp.dp": {
+  "subject": "c",
+  "subject_name": "C/C++编程",
+  "chapter": "algo",
+  "chapter_name": "算法",
+  "section": "dp",
+  "leaf": "dp"
+ },
+ "c.algo.search.dfs_bfs": {
+  "subject": "c",
+  "subject_name": "C/C++编程",
+  "chapter": "algo",
+  "chapter_name": "算法",
+  "section": "search",
+  "leaf": "dfs_bfs"
+ },
+ "c.algo.search.binary_search": {
+  "subject": "c",
+  "subject_name": "C/C++编程",
+  "chapter": "algo",
+  "chapter_name": "算法",
+  "section": "search",
+  "leaf": "binary_search"
+ },
+ "c.algo.prefix.prefix_sum": {
+  "subject": "c",
+  "subject_name": "C/C++编程",
+  "chapter": "algo",
+  "chapter_name": "算法",
+  "section": "prefix",
+  "leaf": "prefix_sum"
+ },
+ "cpp.syntax.io.cin_cout": {
+  "subject": "cpp",
+  "subject_name": "C++编程",
+  "chapter": "syntax",
+  "chapter_name": "基础语法",
+  "section": "io",
+  "leaf": "cin_cout"
+ },
+ "cpp.syntax.io.file": {
+  "subject": "cpp",
+  "subject_name": "C++编程",
+  "chapter": "syntax",
+  "chapter_name": "基础语法",
+  "section": "io",
+  "leaf": "file"
+ },
+ "cpp.syntax.var.var_def": {
+  "subject": "cpp",
+  "subject_name": "C++编程",
+  "chapter": "syntax",
+  "chapter_name": "基础语法",
+  "section": "var",
+  "leaf": "var_def"
+ },
+ "cpp.syntax.var.type": {
+  "subject": "cpp",
+  "subject_name": "C++编程",
+  "chapter": "syntax",
+  "chapter_name": "基础语法",
+  "section": "var",
+  "leaf": "type"
+ },
+ "cpp.syntax.var.type_cast": {
+  "subject": "cpp",
+  "subject_name": "C++编程",
+  "chapter": "syntax",
+  "chapter_name": "基础语法",
+  "section": "var",
+  "leaf": "type_cast"
+ },
+ "cpp.operator.arithmetic.op": {
+  "subject": "cpp",
+  "subject_name": "C++编程",
+  "chapter": "operator",
+  "chapter_name": "运算符",
+  "section": "arithmetic",
+  "leaf": "op"
+ },
+ "cpp.operator.arithmetic.self": {
+  "subject": "cpp",
+  "subject_name": "C++编程",
+  "chapter": "operator",
+  "chapter_name": "运算符",
+  "section": "arithmetic",
+  "leaf": "self"
+ },
+ "cpp.operator.arithmetic.assign": {
+  "subject": "cpp",
+  "subject_name": "C++编程",
+  "chapter": "operator",
+  "chapter_name": "运算符",
+  "section": "arithmetic",
+  "leaf": "assign"
+ },
+ "cpp.operator.logic.cmp": {
+  "subject": "cpp",
+  "subject_name": "C++编程",
+  "chapter": "operator",
+  "chapter_name": "运算符",
+  "section": "logic",
+  "leaf": "cmp"
+ },
+ "cpp.operator.logic.logic_op": {
+  "subject": "cpp",
+  "subject_name": "C++编程",
+  "chapter": "operator",
+  "chapter_name": "运算符",
+  "section": "logic",
+  "leaf": "logic_op"
+ },
+ "cpp.operator.logic.bitwise": {
+  "subject": "cpp",
+  "subject_name": "C++编程",
+  "chapter": "operator",
+  "chapter_name": "运算符",
+  "section": "logic",
+  "leaf": "bitwise"
+ },
+ "cpp.flow.select.if_else": {
+  "subject": "cpp",
+  "subject_name": "C++编程",
+  "chapter": "flow",
+  "chapter_name": "流程控制",
+  "section": "select",
+  "leaf": "if_else"
+ },
+ "cpp.flow.select.switch": {
+  "subject": "cpp",
+  "subject_name": "C++编程",
+  "chapter": "flow",
+  "chapter_name": "流程控制",
+  "section": "select",
+  "leaf": "switch"
+ },
+ "cpp.flow.loop.for_loop": {
+  "subject": "cpp",
+  "subject_name": "C++编程",
+  "chapter": "flow",
+  "chapter_name": "流程控制",
+  "section": "loop",
+  "leaf": "for_loop"
+ },
+ "cpp.flow.loop.while_loop": {
+  "subject": "cpp",
+  "subject_name": "C++编程",
+  "chapter": "flow",
+  "chapter_name": "流程控制",
+  "section": "loop",
+  "leaf": "while_loop"
+ },
+ "cpp.flow.loop.nest": {
+  "subject": "cpp",
+  "subject_name": "C++编程",
+  "chapter": "flow",
+  "chapter_name": "流程控制",
+  "section": "loop",
+  "leaf": "nest"
+ },
+ "cpp.flow.loop.break_continue": {
+  "subject": "cpp",
+  "subject_name": "C++编程",
+  "chapter": "flow",
+  "chapter_name": "流程控制",
+  "section": "loop",
+  "leaf": "break_continue"
+ },
+ "cpp.datastruct.array.array_def": {
+  "subject": "cpp",
+  "subject_name": "C++编程",
+  "chapter": "datastruct",
+  "chapter_name": "数据结构",
+  "section": "array",
+  "leaf": "array_def"
+ },
+ "cpp.datastruct.array.array_index": {
+  "subject": "cpp",
+  "subject_name": "C++编程",
+  "chapter": "datastruct",
+  "chapter_name": "数据结构",
+  "section": "array",
+  "leaf": "array_index"
+ },
+ "cpp.datastruct.array.array_addr": {
+  "subject": "cpp",
+  "subject_name": "C++编程",
+  "chapter": "datastruct",
+  "chapter_name": "数据结构",
+  "section": "array",
+  "leaf": "array_addr"
+ },
+ "cpp.datastruct.array.multidim": {
+  "subject": "cpp",
+  "subject_name": "C++编程",
+  "chapter": "datastruct",
+  "chapter_name": "数据结构",
+  "section": "array",
+  "leaf": "multidim"
+ },
+ "cpp.datastruct.string.cstring": {
+  "subject": "cpp",
+  "subject_name": "C++编程",
+  "chapter": "datastruct",
+  "chapter_name": "数据结构",
+  "section": "string",
+  "leaf": "cstring"
+ },
+ "cpp.datastruct.string.str_func": {
+  "subject": "cpp",
+  "subject_name": "C++编程",
+  "chapter": "datastruct",
+  "chapter_name": "数据结构",
+  "section": "string",
+  "leaf": "str_func"
+ },
+ "cpp.function.func_def.def": {
+  "subject": "cpp",
+  "subject_name": "C++编程",
+  "chapter": "function",
+  "chapter_name": "函数",
+  "section": "func_def",
+  "leaf": "def"
+ },
+ "cpp.function.func_def.param": {
+  "subject": "cpp",
+  "subject_name": "C++编程",
+  "chapter": "function",
+  "chapter_name": "函数",
+  "section": "func_def",
+  "leaf": "param"
+ },
+ "cpp.function.func_def.return": {
+  "subject": "cpp",
+  "subject_name": "C++编程",
+  "chapter": "function",
+  "chapter_name": "函数",
+  "section": "func_def",
+  "leaf": "return"
+ },
+ "cpp.function.recursion.recursion": {
+  "subject": "cpp",
+  "subject_name": "C++编程",
+  "chapter": "function",
+  "chapter_name": "函数",
+  "section": "recursion",
+  "leaf": "recursion"
+ },
+ "cpp.function.overload.overload": {
+  "subject": "cpp",
+  "subject_name": "C++编程",
+  "chapter": "function",
+  "chapter_name": "函数",
+  "section": "overload",
+  "leaf": "overload"
+ },
+ "cpp.algo.basic.search": {
+  "subject": "cpp",
+  "subject_name": "C++编程",
+  "chapter": "algo",
+  "chapter_name": "算法与编程题",
+  "section": "basic",
+  "leaf": "search"
+ },
+ "cpp.algo.basic.simulation": {
+  "subject": "cpp",
+  "subject_name": "C++编程",
+  "chapter": "algo",
+  "chapter_name": "算法与编程题",
+  "section": "basic",
+  "leaf": "simulation"
+ },
+ "cpp.algo.basic.math_algo": {
+  "subject": "cpp",
+  "subject_name": "C++编程",
+  "chapter": "algo",
+  "chapter_name": "算法与编程题",
+  "section": "basic",
+  "leaf": "math_algo"
+ },
+ "cpp.algo.basic.sort": {
+  "subject": "cpp",
+  "subject_name": "C++编程",
+  "chapter": "algo",
+  "chapter_name": "算法与编程题",
+  "section": "basic",
+  "leaf": "sort"
+ },
+ "gx.motion.move.move_step": {
+  "subject": "gx",
+  "subject_name": "Scratch图形化编程",
+  "chapter": "motion",
+  "chapter_name": "运动",
+  "section": "move",
+  "leaf": "move_step"
+ },
+ "gx.motion.move.move_pos": {
+  "subject": "gx",
+  "subject_name": "Scratch图形化编程",
+  "chapter": "motion",
+  "chapter_name": "运动",
+  "section": "move",
+  "leaf": "move_pos"
+ },
+ "gx.motion.move.turn": {
+  "subject": "gx",
+  "subject_name": "Scratch图形化编程",
+  "chapter": "motion",
+  "chapter_name": "运动",
+  "section": "move",
+  "leaf": "turn"
+ },
+ "gx.motion.coord.xy": {
+  "subject": "gx",
+  "subject_name": "Scratch图形化编程",
+  "chapter": "motion",
+  "chapter_name": "运动",
+  "section": "coord",
+  "leaf": "xy"
+ },
+ "gx.motion.coord.direction": {
+  "subject": "gx",
+  "subject_name": "Scratch图形化编程",
+  "chapter": "motion",
+  "chapter_name": "运动",
+  "section": "coord",
+  "leaf": "direction"
+ },
+ "gx.looks.costume.costume": {
+  "subject": "gx",
+  "subject_name": "Scratch图形化编程",
+  "chapter": "looks",
+  "chapter_name": "外观",
+  "section": "costume",
+  "leaf": "costume"
+ },
+ "gx.looks.costume.next_costume": {
+  "subject": "gx",
+  "subject_name": "Scratch图形化编程",
+  "chapter": "looks",
+  "chapter_name": "外观",
+  "section": "costume",
+  "leaf": "next_costume"
+ },
+ "gx.looks.bg.background": {
+  "subject": "gx",
+  "subject_name": "Scratch图形化编程",
+  "chapter": "looks",
+  "chapter_name": "外观",
+  "section": "bg",
+  "leaf": "background"
+ },
+ "gx.looks.bg.add_bg": {
+  "subject": "gx",
+  "subject_name": "Scratch图形化编程",
+  "chapter": "looks",
+  "chapter_name": "外观",
+  "section": "bg",
+  "leaf": "add_bg"
+ },
+ "gx.looks.size.size": {
+  "subject": "gx",
+  "subject_name": "Scratch图形化编程",
+  "chapter": "looks",
+  "chapter_name": "外观",
+  "section": "size",
+  "leaf": "size"
+ },
+ "gx.looks.size.show_hide": {
+  "subject": "gx",
+  "subject_name": "Scratch图形化编程",
+  "chapter": "looks",
+  "chapter_name": "外观",
+  "section": "size",
+  "leaf": "show_hide"
+ },
+ "gx.looks.size.layer": {
+  "subject": "gx",
+  "subject_name": "Scratch图形化编程",
+  "chapter": "looks",
+  "chapter_name": "外观",
+  "section": "size",
+  "leaf": "layer"
+ },
+ "gx.sound.play.play_sound": {
+  "subject": "gx",
+  "subject_name": "Scratch图形化编程",
+  "chapter": "sound",
+  "chapter_name": "声音",
+  "section": "play",
+  "leaf": "play_sound"
+ },
+ "gx.sound.play.volume": {
+  "subject": "gx",
+  "subject_name": "Scratch图形化编程",
+  "chapter": "sound",
+  "chapter_name": "声音",
+  "section": "play",
+  "leaf": "volume"
+ },
+ "gx.sound.play.stop_sound": {
+  "subject": "gx",
+  "subject_name": "Scratch图形化编程",
+  "chapter": "sound",
+  "chapter_name": "声音",
+  "section": "play",
+  "leaf": "stop_sound"
+ },
+ "gx.sound.record.record": {
+  "subject": "gx",
+  "subject_name": "Scratch图形化编程",
+  "chapter": "sound",
+  "chapter_name": "声音",
+  "section": "record",
+  "leaf": "record"
+ },
+ "gx.event.trigger.green_flag": {
+  "subject": "gx",
+  "subject_name": "Scratch图形化编程",
+  "chapter": "event",
+  "chapter_name": "事件",
+  "section": "trigger",
+  "leaf": "green_flag"
+ },
+ "gx.event.trigger.key": {
+  "subject": "gx",
+  "subject_name": "Scratch图形化编程",
+  "chapter": "event",
+  "chapter_name": "事件",
+  "section": "trigger",
+  "leaf": "key"
+ },
+ "gx.event.trigger.click": {
+  "subject": "gx",
+  "subject_name": "Scratch图形化编程",
+  "chapter": "event",
+  "chapter_name": "事件",
+  "section": "trigger",
+  "leaf": "click"
+ },
+ "gx.event.trigger.broadcast": {
+  "subject": "gx",
+  "subject_name": "Scratch图形化编程",
+  "chapter": "event",
+  "chapter_name": "事件",
+  "section": "trigger",
+  "leaf": "broadcast"
+ },
+ "gx.control.loop.repeat": {
+  "subject": "gx",
+  "subject_name": "Scratch图形化编程",
+  "chapter": "control",
+  "chapter_name": "控制",
+  "section": "loop",
+  "leaf": "repeat"
+ },
+ "gx.control.loop.forever": {
+  "subject": "gx",
+  "subject_name": "Scratch图形化编程",
+  "chapter": "control",
+  "chapter_name": "控制",
+  "section": "loop",
+  "leaf": "forever"
+ },
+ "gx.control.select.if_else": {
+  "subject": "gx",
+  "subject_name": "Scratch图形化编程",
+  "chapter": "control",
+  "chapter_name": "控制",
+  "section": "select",
+  "leaf": "if_else"
+ },
+ "gx.control.select.wait": {
+  "subject": "gx",
+  "subject_name": "Scratch图形化编程",
+  "chapter": "control",
+  "chapter_name": "控制",
+  "section": "select",
+  "leaf": "wait"
+ },
+ "gx.logic.math.compare": {
+  "subject": "gx",
+  "subject_name": "Scratch图形化编程",
+  "chapter": "logic",
+  "chapter_name": "逻辑与运算",
+  "section": "math",
+  "leaf": "compare"
+ },
+ "gx.logic.math.arithmetic_op": {
+  "subject": "gx",
+  "subject_name": "Scratch图形化编程",
+  "chapter": "logic",
+  "chapter_name": "逻辑与运算",
+  "section": "math",
+  "leaf": "arithmetic_op"
+ },
+ "gx.logic.math.find_rule": {
+  "subject": "gx",
+  "subject_name": "Scratch图形化编程",
+  "chapter": "logic",
+  "chapter_name": "逻辑与运算",
+  "section": "math",
+  "leaf": "find_rule"
+ },
+ "gx.logic.bool.condition": {
+  "subject": "gx",
+  "subject_name": "Scratch图形化编程",
+  "chapter": "logic",
+  "chapter_name": "逻辑与运算",
+  "section": "bool",
+  "leaf": "condition"
+ },
+ "gx.var.variable.var_use": {
+  "subject": "gx",
+  "subject_name": "Scratch图形化编程",
+  "chapter": "var",
+  "chapter_name": "变量",
+  "section": "variable",
+  "leaf": "var_use"
+ },
+ "gx.var.variable.var_set": {
+  "subject": "gx",
+  "subject_name": "Scratch图形化编程",
+  "chapter": "var",
+  "chapter_name": "变量",
+  "section": "variable",
+  "leaf": "var_set"
+ },
+ "gx.interface.area.stage": {
+  "subject": "gx",
+  "subject_name": "Scratch图形化编程",
+  "chapter": "interface",
+  "chapter_name": "界面与操作",
+  "section": "area",
+  "leaf": "stage"
+ },
+ "gx.interface.area.role": {
+  "subject": "gx",
+  "subject_name": "Scratch图形化编程",
+  "chapter": "interface",
+  "chapter_name": "界面与操作",
+  "section": "area",
+  "leaf": "role"
+ },
+ "gx.interface.area.script": {
+  "subject": "gx",
+  "subject_name": "Scratch图形化编程",
+  "chapter": "interface",
+  "chapter_name": "界面与操作",
+  "section": "area",
+  "leaf": "script"
+ },
+ "gx.interface.area.costume_area": {
+  "subject": "gx",
+  "subject_name": "Scratch图形化编程",
+  "chapter": "interface",
+  "chapter_name": "界面与操作",
+  "section": "area",
+  "leaf": "costume_area"
+ },
+ "gx.interface.operate.add_role": {
+  "subject": "gx",
+  "subject_name": "Scratch图形化编程",
+  "chapter": "interface",
+  "chapter_name": "界面与操作",
+  "section": "operate",
+  "leaf": "add_role"
+ },
+ "gx.interface.operate.sprite": {
+  "subject": "gx",
+  "subject_name": "Scratch图形化编程",
+  "chapter": "interface",
+  "chapter_name": "界面与操作",
+  "section": "operate",
+  "leaf": "sprite"
+ }
+}

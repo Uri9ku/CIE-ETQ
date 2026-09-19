@@ -1,0 +1,95 @@
+{
+ "robot": {
+  "mech": {
+   "杠杆": {
+    "lever_class": "杠杆分类",
+    "lever_arm": "力臂与平衡",
+    "lever_use": "杠杆应用"
+   },
+   "pulley": {
+    "pulley_fixed": "定滑轮",
+    "pulley_move": "动滑轮",
+    "pulley_block": "滑轮组"
+   },
+   "wheel": {
+    "wheel_axle": "轮轴原理与应用"
+   },
+   "gear": {
+    "gear_mesh": "齿轮啮合",
+    "gear_ratio": "传动比与转向",
+    "gear_use": "齿轮应用"
+   },
+   "chain": {
+    "chain_drive": "链传动",
+    "belt_drive": "皮带传动",
+    "slip": "打滑与传动比较"
+   },
+   "intermit": {
+    "cam": "凸轮机构",
+    "ratchet": "棘轮机构",
+    "geneva": "槽轮机构",
+    "link": "连杆机构",
+    "crank_slider": "曲柄滑块/滑杆"
+   },
+   "structure": {
+    "triangle": "三角形结构",
+    "friction": "摩擦与受力",
+    "stability": "稳定性"
+   },
+   "machine": {
+    "work_energy": "功与能量",
+    "simple_machine": "简单机械辨识"
+   }
+  },
+  "elec": {
+   "basic": {
+    "voltage": "电压/安全电压",
+    "resistance": "电阻/欧姆定律",
+    "circuit": "串并联电路",
+    "component": "电子元器件",
+    "conduct": "导体绝缘体"
+   },
+   "arduino": {
+    "board": "主控板与引脚",
+    "io": "数字/模拟输入输出",
+    "serial": "串口通信"
+   },
+   "sensor": {
+    "ultrasonic": "超声波传感器",
+    "potentiometer": "电位器",
+    "infrared": "红外/遥控",
+    "other_sensor": "其他传感器"
+   },
+   "motor": {
+    "servo": "舵机",
+    "dc_motor": "直流电机/马达",
+    "led": "LED与显示"
+   }
+  },
+  "program": {
+   "lang": {
+    "type": "数据类型",
+    "var": "变量与命名",
+    "operator": "运算符",
+    "func": "函数/类库"
+   },
+   "flow": {
+    "select": "选择结构",
+    "loop": "循环结构",
+    "io_func": "输入输出语句"
+   },
+   "concept": {
+    "open_closed": "开环/闭环",
+    "digital_analog": "数字/模拟信号"
+   }
+  },
+  "history": {
+   "overview": {
+    "generation": "发展阶段",
+    "component": "机器人组成",
+    "law": "机器人定律",
+    "power": "能量与驱动"
+   }
+  }
+ }
+}
